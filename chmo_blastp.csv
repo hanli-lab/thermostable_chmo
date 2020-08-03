@@ -1,0 +1,998 @@
+id,desc,accession,query_cov,seq_ident
+pdb|6A37|A,"Chain A, Putative flavin-binding monooxygenase [Acinetobacter calcoaceticus]",6A37_A,0.982,0.967
+ref|WP_096902667.1|,NAD(P)/FAD-dependent oxidoreductase [Acinetobacter sp. YT-02],WP_096902667,0.972,0.708
+ref|WP_087013222.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Acinetobacter],WP_087013222,0.972,0.701
+gb|AAG10021.1|,cyclohexanone monooxygenase [Acinetobacter sp. SE19],AAG10021,0.972,0.701
+gb|MBC68972.1|,cyclohexanone monooxygenase [Acinetobacter sp.],MBC68972,0.972,0.699
+ref|WP_125299349.1|,NAD(P)/FAD-dependent oxidoreductase [Acinetobacter junii],WP_125299349,0.972,0.699
+ref|WP_153561670.1|,NAD(P)-binding domain-containing protein [Acinetobacter baumannii],WP_153561670,0.972,0.699
+gb|EXB04767.1|,"cyclohexanone 1,2-monooxygenase [Acinetobacter baumannii 1295743]",EXB04767,0.972,0.699
+sp|P12015.2|,"RecName: Full=Cyclohexanone 1,2-monooxygenase [Acinetobacter sp.]",P12015,0.972,0.692
+ref|WP_131327645.1|,NAD(P)/FAD-dependent oxidoreductase [Acinetobacter sp. ANC 4173],WP_131327645,0.994,0.697
+ref|WP_131271515.1|,NAD(P)/FAD-dependent oxidoreductase [Acinetobacter sp. ANC 4281],WP_131271515,0.987,0.685
+ref|WP_086210543.1|,NAD(P)/FAD-dependent oxidoreductase [Acinetobacter sp. ANC 4204],WP_086210543,0.994,0.694
+ref|WP_086193167.1|,NAD(P)/FAD-dependent oxidoreductase [Acinetobacter sp. ANC 4655],WP_086193167,0.987,0.681
+ref|WP_067723474.1|,NAD(P)/FAD-dependent oxidoreductase [Acinetobacter sp. SFC],WP_067723474,0.987,0.681
+ref|WP_088376758.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Pseudomonas],WP_088376758,0.972,0.648
+ref|WP_057006141.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Pseudomonas],WP_057006141,0.972,0.649
+ref|WP_086920788.1|,NAD(P)/FAD-dependent oxidoreductase [Variovorax sp. JS1663],WP_086920788,0.98,0.637
+ref|WP_058396194.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas syringae],WP_058396194,0.978,0.613
+ref|WP_114654519.1|,NAD(P)/FAD-dependent oxidoreductase [Acidovorax sp. BoFeN1],WP_114654519,0.98,0.625
+gb|AQR58512.1|,cyclohexanone monooxygenase [Acidovorax sp.],AQR58512,0.98,0.625
+ref|WP_150787650.1|,FAD-dependent oxidoreductase [Pseudomonas fluorescens],WP_150787650,1.009,0.611
+ref|WP_048730882.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas sp. KG01],WP_048730882,0.978,0.605
+ref|WP_163983681.1|,FAD-dependent oxidoreductase [Pseudomonas sp. OIL-1],WP_163983681,0.97,0.609
+ref|WP_060765983.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Pseudomonas],WP_060765983,0.978,0.607
+ref|WP_122539083.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas viridiflava],WP_122539083,0.978,0.607
+ref|WP_108574417.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [unclassified Pseudomonas],WP_108574417,0.978,0.607
+ref|WP_133076215.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas sp. SXM-1],WP_133076215,0.978,0.609
+ref|WP_093432423.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas sp. ok266],WP_093432423,0.978,0.607
+ref|WP_122840386.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas viridiflava],WP_122840386,0.978,0.605
+ref|WP_105521482.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Pseudomonas],WP_105521482,0.978,0.607
+ref|WP_122598232.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas viridiflava],WP_122598232,0.978,0.609
+ref|WP_045058461.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas sp. ES3-33],WP_045058461,0.978,0.605
+ref|WP_122721645.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas viridiflava],WP_122721645,0.978,0.607
+ref|WP_007910345.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [unclassified Pseudomonas],WP_007910345,0.978,0.607
+ref|WP_125953050.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Comamonadaceae],WP_125953050,0.98,0.624
+ref|WP_116628041.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas sp. OV508],WP_116628041,0.978,0.607
+tpg|HAU57077.1|,NAD(P)/FAD-dependent oxidoreductase [Comamonadaceae bacterium],HAU57077,0.98,0.625
+ref|WP_122511027.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas viridiflava],WP_122511027,0.978,0.605
+ref|WP_134101491.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas sp. OV341],WP_134101491,0.978,0.605
+ref|WP_087778440.1|,NAD(P)/FAD-dependent oxidoreductase [Pigmentiphaga sp. NML080357],WP_087778440,0.98,0.622
+ref|WP_103408664.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas syringae group genomosp. 3],WP_103408664,0.978,0.605
+ref|WP_122486241.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas viridiflava],WP_122486241,0.978,0.605
+ref|WP_047602773.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas putida],WP_047602773,0.978,0.607
+ref|WP_056854429.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas sp. Root562],WP_056854429,0.978,0.603
+ref|WP_065836614.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas syringae],WP_065836614,0.978,0.605
+ref|WP_090902259.1|,NAD(P)/FAD-dependent oxidoreductase [Azotobacter beijerinckii],WP_090902259,0.967,0.605
+ref|WP_014861961.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas putida],WP_014861961,0.978,0.607
+ref|WP_166628012.1|,FAD-dependent oxidoreductase [Streptomyces sp. GC420],WP_166628012,0.959,0.614
+ref|WP_067399860.1|,NAD(P)/FAD-dependent oxidoreductase [Erythrobacteraceae bacterium CCH12-C2],WP_067399860,0.98,0.622
+ref|WP_020294079.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas sp. CFII64],WP_020294079,0.978,0.603
+ref|WP_108228764.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [unclassified Pseudomonas],WP_108228764,0.97,0.6
+ref|WP_058822697.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas syringae],WP_058822697,0.978,0.603
+ref|WP_007970866.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas sp. GM33],WP_007970866,0.978,0.6
+ref|WP_121783468.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas putida],WP_121783468,0.978,0.605
+ref|WP_057397876.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas fluorescens],WP_057397876,0.978,0.603
+ref|WP_061203295.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas putida],WP_061203295,0.978,0.605
+ref|WP_150644880.1|,FAD-dependent oxidoreductase [Pseudomonas fluorescens],WP_150644880,0.97,0.596
+ref|WP_003411027.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas syringae],WP_003411027,0.978,0.603
+ref|WP_119713637.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas putida],WP_119713637,0.978,0.605
+ref|WP_144809970.1|,NAD(P)-binding domain-containing protein [Halomonas titanicae],WP_144809970,0.993,0.622
+ref|WP_145145438.1|,FAD-dependent oxidoreductase [Pseudomonas duriflava],WP_145145438,0.97,0.6
+ref|WP_119083422.1|,NAD(P)/FAD-dependent oxidoreductase [Altererythrobacter sp. B11],WP_119083422,0.985,0.613
+ref|WP_072894694.1|,NAD(P)/FAD-dependent oxidoreductase [Sphingobium sp. YR657],WP_072894694,0.985,0.613
+ref|WP_110753652.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas sp. OV529],WP_110753652,0.978,0.6
+ref|WP_019689178.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas fluorescens],WP_019689178,0.978,0.6
+ref|WP_122395995.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas savastanoi],WP_122395995,0.978,0.596
+gb|RZL29053.1|,NAD(P)/FAD-dependent oxidoreductase [Sphingomonas sp.],RZL29053,0.969,0.609
+ref|WP_053160509.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas sp. P1.8],WP_053160509,0.958,0.611
+ref|WP_093084615.1|,NAD(P)/FAD-dependent oxidoreductase [Sphingobium sp. AP50],WP_093084615,0.985,0.609
+ref|WP_132910682.1|,NAD(P)/FAD-dependent oxidoreductase [Sphingomonas sp. BK235],WP_132910682,0.976,0.596
+ref|WP_144000649.1|,FAD-dependent oxidoreductase [Pseudomonas putida],WP_144000649,0.935,0.601
+ref|WP_090348239.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas oryzae],WP_090348239,0.935,0.601
+ref|WP_125882669.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas stutzeri],WP_125882669,0.937,0.601
+gb|OGB13546.1|,cyclohexanone monooxygenase [Burkholderiales bacterium RIFCSPLOWO2_02_FULL_67_64],OGB13546,0.967,0.605
+ref|WP_093016622.1|,NAD(P)/FAD-dependent oxidoreductase [Sphingobium sp. YR768],WP_093016622,0.982,0.609
+ref|WP_128121809.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas zhaodongensis],WP_128121809,0.97,0.62
+gb|MQA01264.1|,SidA/IucD/PvdA family monooxygenase [Streptosporangiales bacterium],MQA01264,0.978,0.609
+ref|WP_108094858.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [unclassified Pseudomonas],WP_108094858,0.945,0.598
+ref|WP_064122759.1|,NAD(P)/FAD-dependent oxidoreductase [Halotalea alkalilenta],WP_064122759,0.978,0.598
+ref|WP_008013396.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas sp. GM50],WP_008013396,0.958,0.601
+ref|WP_090609708.1|,NAD(P)/FAD-dependent oxidoreductase [Mycobacterium lentiflavum],WP_090609708,0.959,0.605
+ref|WP_114968021.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodoferax sp. OTU1],WP_114968021,0.967,0.596
+ref|WP_027349086.1|,NAD(P)/FAD-dependent oxidoreductase [Halotalea alkalilenta],WP_027349086,0.978,0.59
+ref|WP_065132601.1|,NAD(P)/FAD-dependent oxidoreductase [Mycobacterium gordonae],WP_065132601,0.959,0.601
+ref|WP_104175867.1|,NAD(P)/FAD-dependent oxidoreductase [Arthrobacter sp. Y81],WP_104175867,0.978,0.589
+ref|WP_011486392.1|,NAD(P)/FAD-dependent oxidoreductase [Polaromonas sp. JS666],WP_011486392,0.974,0.59
+ref|WP_043481220.1|,NAD(P)/FAD-dependent oxidoreductase [Arthrobacter sp. SPG23],WP_043481220,0.976,0.587
+gb|RCX09780.1|,cation diffusion facilitator CzcD-associated flavoprotein CzcO [Extensimonas vulgaris],RCX09780,0.969,0.587
+ref|WP_114483157.1|,NAD(P)/FAD-dependent oxidoreductase [Extensimonas vulgaris],WP_114483157,0.969,0.587
+ref|WP_093052339.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudomonas sp. NFPP33],WP_093052339,0.945,0.589
+ref|WP_095785398.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Mycobacterium],WP_095785398,0.959,0.601
+ref|WP_106349107.1|,NAD(P)/FAD-dependent oxidoreductase [Antricoccus suffuscus],WP_106349107,0.978,0.592
+ref|WP_102809880.1|,NAD(P)/FAD-dependent oxidoreductase [Mycobacterium sp. ENV421],WP_102809880,0.959,0.596
+ref|WP_136323127.1|,NAD(P)/FAD-dependent oxidoreductase [Arthrobacter sp. PAMC25564],WP_136323127,0.97,0.577
+ref|WP_091147801.1|,NAD(P)/FAD-dependent oxidoreductase [Novosphingobium sp. CF614],WP_091147801,0.978,0.59
+gb|AAR99068.1|,cyclohexanone monooxygenase [Brachymonas petroleovorans],AAR99068,0.97,0.568
+ref|WP_088088501.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus sp. OV166],WP_088088501,0.985,0.589
+ref|WP_121066935.1|,NAD(P)/FAD-dependent oxidoreductase [Chachezhania antarctica],WP_121066935,0.967,0.583
+ref|WP_144529826.1|,NAD(P)-binding domain-containing protein [Bacillus simplex],WP_144529826,0.959,0.576
+ref|WP_066256274.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus drentensis],WP_066256274,0.969,0.577
+gb|KEI44726.1|,cyclohexanone monooxygenase [Saccharopolyspora rectivirgula],KEI44726,0.976,0.568
+ref|WP_081855528.1|,NAD(P)/FAD-dependent oxidoreductase [Saccharopolyspora rectivirgula],WP_081855528,0.969,0.563
+gb|OOL31551.1|,cyclohexanone monooxygenase [Rhodococcus rhodochrous],OOL31551,0.982,0.574
+ref|WP_051388070.1|,NAD(P)/FAD-dependent oxidoreductase [Saccharopolyspora rectivirgula],WP_051388070,0.969,0.561
+ref|WP_134324453.1|,NAD(P)/FAD-dependent oxidoreductase [Cumulibacter sp. G-1],WP_134324453,0.965,0.576
+ref|WP_088626552.1|,NAD(P)/FAD-dependent oxidoreductase [Oceanicola sp. 22II-s10i],WP_088626552,0.967,0.577
+ref|WP_104175854.1|,NAD(P)/FAD-dependent oxidoreductase [Arthrobacter sp. Y81],WP_104175854,0.958,0.561
+ref|WP_089423332.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Sulfitobacter],WP_089423332,0.963,0.57
+emb|CAD10801.1|,"cyclohexanone 1,2-monooxygenase [Xanthobacter flavus]",CAD10801,0.985,0.557
+ref|WP_024366082.1|,NAD(P)/FAD-dependent oxidoreductase [Arthrobacter sp. TB 26],WP_024366082,0.958,0.559
+ref|WP_049716897.1|,NAD(P)/FAD-dependent oxidoreductase [Streptomyces caatingaensis],WP_049716897,0.98,0.57
+ref|WP_056626825.1|,NAD(P)/FAD-dependent oxidoreductase [Arthrobacter sp. Soil736],WP_056626825,0.958,0.561
+ref|WP_043480805.1|,NAD(P)/FAD-dependent oxidoreductase [Arthrobacter sp. SPG23],WP_043480805,0.958,0.561
+ref|WP_067261950.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Rhodobacteraceae],WP_067261950,0.987,0.565
+ref|WP_055806562.1|,NAD(P)/FAD-dependent oxidoreductase [Arthrobacter sp. Leaf337],WP_055806562,0.958,0.561
+ref|WP_009804217.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Rhodobacteraceae],WP_009804217,0.987,0.565
+ref|WP_024820729.1|,NAD(P)/FAD-dependent oxidoreductase [Arthrobacter sp. 31Y],WP_024820729,0.974,0.561
+ref|WP_136323143.1|,NAD(P)/FAD-dependent oxidoreductase [Arthrobacter sp. PAMC25564],WP_136323143,0.958,0.561
+ref|WP_109239209.1|,NAD(P)/FAD-dependent oxidoreductase [Gordonia paraffinivorans],WP_109239209,0.967,0.55
+ref|WP_161994825.1|,NAD(P)-binding domain-containing protein [Rhodococcus sp. YH1],WP_161994825,0.972,0.559
+ref|WP_058929017.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudarthrobacter sulfonivorans],WP_058929017,0.958,0.555
+gb|AAR27824.1|,cyclohexanone monooxygenase [Rhodococcus sp. TK6],AAR27824,0.972,0.559
+ref|WP_097203973.1|,NAD(P)/FAD-dependent oxidoreductase [Geodermatophilus sabuli],WP_097203973,0.969,0.563
+ref|WP_091325328.1|,NAD(P)/FAD-dependent oxidoreductase [Arthrobacter sp. cf158],WP_091325328,0.974,0.559
+pdb|4RG3|A,"Chain A, Cyclohexanone monooxygenase [Rhodococcus sp. HI-31]",4RG3_A,0.972,0.557
+pdb|6ER9|A,"Chain A, Cyclohexanone monooxygenase [Rhodococcus sp. Phi1]",6ER9_A,0.982,0.559
+ref|WP_054540671.1|,NAD(P)/FAD-dependent oxidoreductase [Confluentimicrobium sp. EMB200-NS6],WP_054540671,0.982,0.561
+ref|WP_009476383.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus sp. JVH1],WP_009476383,0.965,0.555
+ref|WP_133351444.1|,NAD(P)/FAD-dependent oxidoreductase [Arthrobacter nitrophenolicus],WP_133351444,0.958,0.559
+ref|WP_053415760.1|,NAD(P)/FAD-dependent oxidoreductase [Viridibacillus arvi],WP_053415760,0.983,0.581
+pdb|3GWD|A,"Chain A, Cyclohexanone monooxygenase [Rhodococcus sp. HI-31]",3GWD_A,0.972,0.557
+pdb|3UCL|A,"Chain A, Cyclohexanone monooxygenase [Rhodococcus sp. HI-31]",3UCL_A,0.972,0.557
+ref|WP_090820873.1|,NAD(P)/FAD-dependent oxidoreductase [Arthrobacter sp. yr096],WP_090820873,0.974,0.557
+gb|AAN37494.1|,cyclohexanone monooxygenase [Rhodococcus sp. Phi1],AAN37494,0.978,0.557
+ref|WP_104063888.1|,NAD(P)/FAD-dependent oxidoreductase [Arthrobacter sp. 4R501],WP_104063888,0.958,0.554
+gb|MAB17637.1|,cyclohexanone monooxygenase [Roseobacter sp.],MAB17637,0.987,0.561
+gb|OOL32667.1|,cyclohexanone monooxygenase [Rhodococcus rhodochrous],OOL32667,0.972,0.554
+ref|WP_050474496.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Rhodobacteraceae],WP_050474496,0.983,0.561
+ref|WP_164064460.1|,NAD(P)-binding domain-containing protein [Rhodococcus sp. IEGM 248],WP_164064460,0.965,0.554
+ref|WP_043378126.1|,NAD(P)/FAD-dependent oxidoreductase [Streptomyces luteus],WP_043378126,0.974,0.555
+ref|WP_138047167.1|,NAD(P)/FAD-dependent oxidoreductase [Streptomyces sp. NEAU-C151],WP_138047167,0.987,0.552
+ref|WP_091252989.1|,NAD(P)/FAD-dependent oxidoreductase [Arthrobacter sp. ok909],WP_091252989,0.958,0.552
+ref|WP_092582968.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Ralstonia],WP_092582968,0.98,0.565
+gb|ROP88349.1|,cation diffusion facilitator CzcD-associated flavoprotein CzcO [Streptomyces sp. 844.5],ROP88349,0.972,0.563
+gb|TDN86970.1|,cation diffusion facilitator CzcD-associated flavoprotein CzcO [Stakelama pacifica],TDN86970,0.972,0.555
+ref|WP_133494109.1|,NAD(P)/FAD-dependent oxidoreductase [Stakelama pacifica],WP_133494109,0.972,0.555
+ref|WP_028849141.1|,NAD(P)/FAD-dependent oxidoreductase [Thermocrispum municipale],WP_028849141,0.978,0.566
+gb|KAF0175819.1|,flavin-containing monooxygenase FMO [Rhodobacteraceae bacterium],KAF0175819,0.983,0.555
+ref|WP_037112971.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Rhodococcus],WP_037112971,0.985,0.568
+ref|WP_017615658.1|,NAD(P)/FAD-dependent oxidoreductase [Nocardiopsis salina],WP_017615658,0.959,0.55
+ref|WP_062653539.1|,NAD(P)/FAD-dependent oxidoreductase [Rhizobium sp. Root651],WP_062653539,0.983,0.552
+ref|WP_094719659.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus sp. 14-2470-1b],WP_094719659,0.985,0.568
+pdb|6ERA|A,"Chain A, Cyclohexanone monooxygenase [Rhodococcus sp. Phi1]",6ERA_A,0.982,0.554
+ref|WP_029995535.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Sphingomonadaceae],WP_029995535,0.993,0.555
+gb|PRD33997.1|,Baeyer-Villiger monooxygenase [Trichonephila clavipes],PRD33997,0.983,0.57
+gb|AAN37491.1|,cyclohexanone monooxygenase [Rhodococcus sp. Phi2],AAN37491,0.972,0.55
+gb|ABQ10653.1|,"cyclohexanone monooxygenase, partial [Arthrobacter sp. L661]",ABQ10653,0.967,0.548
+ref|WP_130293233.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudonocardia sediminis],WP_130293233,0.976,0.572
+gb|AEC32943.1|,cyclohexanone monooxygenase [Rhodococcus ruber],AEC32943,0.972,0.552
+ref|WP_145692569.1|,NAD(P)-binding domain-containing protein [Rhodococcus rhodochrous],WP_145692569,0.982,0.544
+ref|WP_161763803.1|,FAD-dependent oxidoreductase [Rhodobacteraceae bacterium HSP-20],WP_161763803,0.983,0.568
+gb|OHC55540.1|,cyclohexanone monooxygenase [Rhodobacterales bacterium RIFCSPHIGHO2_02_FULL_62_130],OHC55540,0.983,0.568
+ref|WP_150587484.1|,FAD-dependent oxidoreductase [Pandoraea sp. LMG 31012],WP_150587484,0.982,0.559
+ref|WP_142568285.1|,FAD-dependent oxidoreductase [Microbispora bryophytorum],WP_142568285,0.989,0.565
+ref|WP_025549974.1|,NAD(P)/FAD-dependent oxidoreductase [Sphingobium barthaii],WP_025549974,0.972,0.55
+ref|WP_009827025.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Rhodobacteraceae],WP_009827025,0.987,0.563
+ref|WP_009242116.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Ralstonia],WP_009242116,0.982,0.559
+ref|WP_093455066.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudooceanicola nitratireducens],WP_093455066,0.987,0.563
+ref|WP_147848386.1|,FAD-dependent oxidoreductase [Enhydrobacter sp. CC-CFT640],WP_147848386,0.972,0.548
+ref|WP_091047536.1|,NAD(P)/FAD-dependent oxidoreductase [Nocardioides sp. YR527],WP_091047536,0.98,0.561
+ref|WP_071974431.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Rhodobacteraceae],WP_071974431,0.987,0.563
+ref|WP_137910984.1|,NAD(P)/FAD-dependent oxidoreductase [Ralstonia sp. 3PA37C10],WP_137910984,0.982,0.559
+ref|WP_104577673.1|,NAD(P)/FAD-dependent oxidoreductase [Ralstonia insidiosa],WP_104577673,0.982,0.557
+ref|WP_095889058.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus sp. ACPA4],WP_095889058,0.98,0.563
+ref|WP_136728276.1|,NAD(P)/FAD-dependent oxidoreductase [Streptomyces sp. NEAU-C40],WP_136728276,0.98,0.55
+ref|WP_115964083.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus sp. OK269],WP_115964083,0.985,0.559
+ref|WP_142938786.1|,NAD(P)-binding domain-containing protein [Arthrobacter sp. TS-15],WP_142938786,0.985,0.548
+ref|WP_094610305.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus sp. WWJCD1],WP_094610305,0.976,0.554
+ref|WP_109684346.1|,NAD(P)/FAD-dependent oxidoreductase [Branchiibius hedensis],WP_109684346,0.963,0.561
+emb|SFM02757.1|,Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD [Marinobacter sp. DSM 26291],SFM02757,0.967,0.559
+ref|XP_017544661.1|,PREDICTED: baeyer-Villiger monooxygenase-like [Pygocentrus nattereri],XP_017544661,0.985,0.565
+gb|OJV94247.1|,cyclohexanone monooxygenase [Microbacterium sp. 67-17],OJV94247,0.983,0.552
+ref|WP_069183838.1|,NAD(P)/FAD-dependent oxidoreductase [Marinobacter adhaerens],WP_069183838,0.967,0.559
+ref|WP_075195766.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [unclassified Marinobacter],WP_075195766,0.967,0.559
+ref|WP_094641636.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [unclassified Rhodococcus],WP_094641636,0.976,0.554
+ref|WP_094704849.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus sp. 15-649-2-2],WP_094704849,0.976,0.554
+ref|WP_125131931.1|,NAD(P)/FAD-dependent oxidoreductase [Microbacterium sp. 10M-3C3],WP_125131931,0.983,0.555
+ref|WP_094662586.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus sp. 06-1460-1B],WP_094662586,0.976,0.552
+emb|SEO04995.1|,Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD [Gemmobacter aquatilis],SEO04995,0.982,0.555
+gb|OUR81907.1|,cyclohexanone monooxygenase [Cycloclasticus sp. 46_120_T64],OUR81907,0.963,0.565
+ref|WP_045246916.1|,NAD(P)/FAD-dependent oxidoreductase [Microbacterium ginsengisoli],WP_045246916,0.983,0.55
+ref|WP_167120578.1|,NAD(P)-binding domain-containing protein [Rhodococcus sp. A14],WP_167120578,0.97,0.539
+ref|WP_135950164.1|,NAD(P)/FAD-dependent oxidoreductase [Microbacterium laevaniformans],WP_135950164,0.983,0.55
+ref|WP_091303191.1|,NAD(P)/FAD-dependent oxidoreductase [Gemmobacter aquatilis],WP_091303191,0.982,0.555
+ref|WP_037150310.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Rhodococcus],WP_037150310,0.976,0.552
+ref|WP_098956603.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudonocardia sp. N23],WP_098956603,0.963,0.542
+ref|WP_005054981.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Microbacterium],WP_005054981,0.983,0.548
+ref|WP_058807953.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [unclassified Sphingopyxis],WP_058807953,0.98,0.548
+ref|WP_141474961.1|,NAD(P)-binding domain-containing protein [Rhodococcus sp. WS4],WP_141474961,0.97,0.537
+gb|ODT24656.1|,cyclohexanone monooxygenase [Microbacterium sp. SCN 69-37],ODT24656,0.983,0.554
+ref|WP_093344080.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudonocardia ammonioxydans],WP_093344080,0.97,0.541
+ref|WP_057479465.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus sp. Leaf278],WP_057479465,0.976,0.55
+ref|WP_142623690.1|,FAD-dependent oxidoreductase [Microbispora hainanensis],WP_142623690,0.976,0.557
+ref|WP_058536444.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [unclassified Sphingopyxis],WP_058536444,0.98,0.548
+emb|SFN53955.1|,Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD [Pseudonocardia ammonioxydans],SFN53955,0.97,0.541
+gb|MAC22023.1|,cyclohexanone monooxygenase [Marinobacter sp.],MAC22023,0.967,0.557
+gb|MAA82133.1|,cyclohexanone monooxygenase [Hyphomonas sp.],MAA82133,0.967,0.561
+ref|WP_125089118.1|,NAD(P)/FAD-dependent oxidoreductase [Saccharopolyspora sp. H219],WP_125089118,0.982,0.557
+ref|WP_097203983.1|,NAD(P)/FAD-dependent oxidoreductase [Geodermatophilus sabuli],WP_097203983,0.974,0.546
+ref|WP_137095890.1|,NAD(P)/FAD-dependent oxidoreductase [Prauserella endophytica],WP_137095890,0.967,0.55
+ref|WP_112272984.1|,NAD(P)/FAD-dependent oxidoreductase [Prauserella sp. PE36],WP_112272984,0.967,0.55
+gb|AAN37479.1|,cyclohexanone monooxygenase [Arthrobacter sp. BP2],AAN37479,0.985,0.546
+gb|OJU47741.1|,cyclohexanone monooxygenase [Microbacterium sp. 69-7],OJU47741,0.983,0.554
+ref|WP_113979857.1|,NAD(P)/FAD-dependent oxidoreductase [Sphaerisporangium sp. LHW63015],WP_113979857,0.967,0.541
+ref|WP_132428443.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudonocardia endophytica],WP_132428443,0.956,0.535
+gb|MAX77707.1|,cyclohexanone monooxygenase [Roseobacter sp.],MAX77707,0.987,0.555
+ref|WP_051736657.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudonocardia autotrophica],WP_051736657,0.963,0.548
+ref|WP_072801557.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus yunnanensis],WP_072801557,0.983,0.557
+ref|WP_168150722.1|,NAD(P)/FAD-dependent oxidoreductase [Paeniglutamicibacter sp. ANT13_2],WP_168150722,0.946,0.539
+ref|WP_111170302.1|,NAD(P)/FAD-dependent oxidoreductase [Desertiactinospora gelatinilytica],WP_111170302,0.969,0.539
+ref|WP_099612782.1|,NAD(P)/FAD-dependent oxidoreductase [Marinobacter profundi],WP_099612782,0.98,0.548
+ref|WP_030166058.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Actinobacteria],WP_030166058,0.985,0.546
+ref|WP_133824470.1|,NAD(P)/FAD-dependent oxidoreductase [Actinomycetospora succinea],WP_133824470,0.97,0.546
+tpg|HBS09659.1|,NAD(P)/FAD-dependent oxidoreductase [Microbacterium sp.],HBS09659,0.983,0.546
+ref|WP_091699492.1|,NAD(P)/FAD-dependent oxidoreductase [Micrococcus terreus],WP_091699492,0.98,0.546
+gb|MAV31297.1|,cyclohexanone monooxygenase [Cycloclasticus sp.],MAV31297,0.985,0.561
+gb|RLA21482.1|,NAD(P)/FAD-dependent oxidoreductase [Gammaproteobacteria bacterium],RLA21482,0.963,0.565
+ref|WP_075836523.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [unclassified Rhodococcus],WP_075836523,0.97,0.535
+ref|WP_167120509.1|,NAD(P)-binding domain-containing protein [Rhodococcus sp. A14],WP_167120509,0.97,0.531
+ref|WP_011805343.1|,NAD(P)/FAD-dependent oxidoreductase [Acidovorax sp. JS42],WP_011805343,0.836,0.537
+ref|WP_073362180.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus jostii],WP_073362180,0.97,0.526
+ref|WP_095865587.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus sp. ACS1],WP_095865587,0.959,0.524
+ref|WP_028266969.1|,NAD(P)/FAD-dependent oxidoreductase [Arthrobacter sp. MA-N2],WP_028266969,0.98,0.537
+ref|WP_058929008.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudarthrobacter sulfonivorans],WP_058929008,0.972,0.535
+ref|WP_159542524.1|,NAD(P)-binding domain-containing protein [Epidermidibacterium keratini],WP_159542524,0.969,0.55
+gb|OJY43802.1|,cyclohexanone monooxygenase [Pseudonocardia sp. 73-21],OJY43802,0.985,0.546
+ref|WP_013672695.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudonocardia dioxanivorans],WP_013672695,0.974,0.542
+ref|WP_072943629.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus koreensis],WP_072943629,0.959,0.522
+emb|CNE53776.1|,Putative (cyclohexanone) monooxygenase [Mycobacterium tuberculosis],CNE53776,0.987,0.55
+ref|WP_132438124.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [unclassified Rathayibacter],WP_132438124,0.989,0.535
+ref|WP_073457557.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudonocardia thermophila],WP_073457557,0.985,0.535
+ref|WP_097866733.1|,NAD(P)/FAD-dependent oxidoreductase [Streptomyces sp. rh34],WP_097866733,0.967,0.522
+ref|WP_123502269.1|,NAD(P)/FAD-dependent oxidoreductase [Streptomyces sp. 844.5],WP_123502269,0.943,0.544
+ref|WP_097206365.1|,NAD(P)/FAD-dependent oxidoreductase [Geodermatophilus sabuli],WP_097206365,0.963,0.546
+ref|WP_142649847.1|,NAD(P)-binding domain-containing protein [Microbispora sp. SCL1-1],WP_142649847,0.952,0.55
+ref|WP_088385153.1|,NAD(P)/FAD-dependent oxidoreductase [Roseateles aquatilis],WP_088385153,0.978,0.544
+gb|RTL22606.1|,NAD(P)/FAD-dependent oxidoreductase [Burkholderiales bacterium],RTL22606,0.978,0.546
+ref|WP_107766980.1|,NAD(P)/FAD-dependent oxidoreductase [Nocardioides terrigena],WP_107766980,0.959,0.539
+ref|WP_141470138.1|,NAD(P)-binding domain-containing protein [Rhodococcus sp. WS4],WP_141470138,0.989,0.526
+ref|WP_120005593.1|,NAD(P)/FAD-dependent oxidoreductase [Nesterenkonia muleiensis],WP_120005593,0.963,0.544
+ref|WP_095865598.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus sp. ACS1],WP_095865598,0.959,0.518
+ref|WP_055483527.1|,NAD(P)/FAD-dependent oxidoreductase [Microbispora sp. GMKU363],WP_055483527,0.989,0.544
+ref|WP_133205499.1|,NAD(P)/FAD-dependent oxidoreductase [Arthrobacter sp. JH1-1],WP_133205499,0.97,0.533
+ref|WP_104176314.1|,NAD(P)/FAD-dependent oxidoreductase [Arthrobacter sp. Y81],WP_104176314,0.982,0.541
+ref|WP_147942339.1|,NAD(P)-binding domain-containing protein [Microbispora sp. CSR-4],WP_147942339,0.952,0.55
+ref|WP_100877702.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudonocardia alni],WP_100877702,0.974,0.533
+ref|WP_139465010.1|,FAD-dependent oxidoreductase [Corynebacterium tapiri],WP_139465010,0.976,0.535
+ref|WP_030909487.1|,NAD(P)/FAD-dependent oxidoreductase [Streptosporangium amethystogenes],WP_030909487,0.978,0.546
+ref|WP_062395204.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudonocardia sp. AL041005-10],WP_062395204,0.974,0.535
+ref|WP_073574803.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Pseudonocardia],WP_073574803,0.974,0.535
+gb|ELB93569.1|,cyclohexanone monooxygenase [Rhodococcus wratislaviensis IFP 2016],ELB93569,0.97,0.517
+ref|WP_037243025.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus wratislaviensis],WP_037243025,0.959,0.533
+ref|WP_061699807.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus sp. LB1],WP_061699807,0.97,0.535
+gb|EMP14789.2|,cyclohexanone monooxygenase [Gordonia sp. NB4-1Y],EMP14789,0.959,0.524
+ref|WP_053778360.1|,NAD(P)/FAD-dependent oxidoreductase [Gordonia sp. NB4-1Y],WP_053778360,0.959,0.524
+ref|WP_156229230.1|,NAD(P)-binding domain-containing protein [Corynebacterium sp. 2019],WP_156229230,0.97,0.53
+gb|QGU05831.1|,"Cyclohexanone 1,2-monooxygenase [Corynebacterium sp. 2019]",QGU05831,0.97,0.53
+ref|WP_091699487.1|,"NAD(P)/FAD-dependent oxidoreductase, partial [Micrococcus terreus]",WP_091699487,0.932,0.526
+ref|WP_133696914.1|,NAD(P)/FAD-dependent oxidoreductase [Mycobacterium sp. BK086],WP_133696914,0.937,0.528
+ref|WP_108055228.1|,NAD(P)/FAD-dependent oxidoreductase [Mycobacterium sp. YR782],WP_108055228,0.937,0.528
+ref|WP_112299802.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus wratislaviensis],WP_112299802,0.959,0.531
+ref|WP_168011931.1|,NAD(P)/FAD-dependent oxidoreductase [Nonomuraea sp. FMUSA5-5],WP_168011931,0.972,0.541
+ref|WP_159941363.1|,MULTISPECIES: NAD(P)-binding domain-containing protein [unclassified Nocardiopsis],WP_159941363,0.976,0.52
+gb|QGU03353.1|,"Cyclohexanone 1,2-monooxygenase [Corynebacterium sp. 2019]",QGU03353,0.983,0.528
+ref|WP_156226549.1|,NAD(P)-binding domain-containing protein [Corynebacterium sp. 2019],WP_156226549,0.983,0.528
+ref|WP_095867568.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus sp. ACPA1],WP_095867568,0.97,0.531
+gb|AMQ09357.1|,cyclohexanone monooxygenase [Lysobacter antibioticus],AMQ09357,0.972,0.528
+ref|WP_132163776.1|,NAD(P)/FAD-dependent oxidoreductase [Mycobacterium sp. YR708],WP_132163776,0.937,0.524
+ref|XP_013275577.1|,hypothetical protein Z518_03097 [Rhinocladiella mackenziei CBS 650.93],XP_013275577,1.015,0.546
+ref|WP_091503993.1|,NAD(P)/FAD-dependent oxidoreductase [Amycolatopsis sacchari],WP_091503993,0.982,0.539
+ref|WP_057920115.1|,NAD(P)/FAD-dependent oxidoreductase [Lysobacter antibioticus],WP_057920115,0.972,0.528
+ref|WP_117410179.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Microbispora],WP_117410179,0.952,0.537
+ref|WP_114847378.1|,NAD(P)/FAD-dependent oxidoreductase [Dyella sp. L4-6],WP_114847378,0.972,0.541
+gb|ALN63245.1|,cyclohexanone monooxygenase [Lysobacter antibioticus],ALN63245,0.972,0.528
+ref|WP_154956607.1|,NAD(P)/FAD-dependent oxidoreductase [Microbispora tritici],WP_154956607,0.952,0.537
+ref|WP_031373224.1|,NAD(P)/FAD-dependent oxidoreductase [Lysobacter antibioticus],WP_031373224,0.972,0.528
+ref|WP_026936286.1|,NAD(P)/FAD-dependent oxidoreductase [Gulosibacter molinativorax],WP_026936286,0.967,0.524
+ref|WP_132426427.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudonocardia endophytica],WP_132426427,0.972,0.533
+ref|WP_133985730.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Rhodococcus],WP_133985730,0.959,0.524
+ref|WP_048860806.1|,NAD(P)/FAD-dependent oxidoreductase [Acidisphaera rubrifaciens],WP_048860806,0.969,0.542
+ref|WP_087972047.1|,NAD(P)/FAD-dependent oxidoreductase [Oceanobacillus rekensis],WP_087972047,0.954,0.541
+ref|XP_018134634.1|,hypothetical protein VE01_00844 [Pseudogymnoascus verrucosus],XP_018134634,0.982,0.533
+ref|WP_005265071.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus opacus],WP_005265071,0.976,0.552
+dbj|BAH56670.1|,cyclohexanone monooxygenase [Rhodococcus sp. HI-31],BAH56670,0.976,0.526
+ref|WP_149369526.1|,NAD(P)/FAD-dependent oxidoreductase [Mycolicibacterium sp. P9-64],WP_149369526,0.958,0.522
+ref|WP_140687463.1|,NAD(P)-binding protein [Mycolicibacterium hodleri],WP_140687463,0.939,0.517
+ref|WP_007299282.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus imtechensis],WP_007299282,0.976,0.552
+ref|WP_150939284.1|,NAD(P)-binding domain-containing protein [Microbispora sp. Gxj-6],WP_150939284,0.952,0.535
+ref|XP_024719479.1|,hypothetical protein M430DRAFT_142104 [Amorphotheca resinae ATCC 22711],XP_024719479,0.969,0.537
+ref|XP_009153249.1|,cyclohexanone monooxygenase [Exophiala dermatitidis NIH/UT8656],XP_009153249,1.006,0.542
+ref|WP_147876051.1|,FAD-dependent oxidoreductase [Streptomyces sp. IB2014 016-6],WP_147876051,0.982,0.509
+gb|PVH72881.1|,FAD/NAD(P)-binding domain-containing protein [Cadophora sp. DSE1049],PVH72881,1.026,0.548
+ref|XP_007728061.1|,cyclohexanone monooxygenase [Capronia coronata CBS 617.96],XP_007728061,1.007,0.539
+ref|WP_080039573.1|,NAD(P)/FAD-dependent oxidoreductase [Nonomuraea sp. ATCC 55076],WP_080039573,0.972,0.542
+ref|WP_047872139.1|,NAD(P)/FAD-dependent oxidoreductase [Nocardiopsis sp. RV163],WP_047872139,0.976,0.511
+ref|WP_139909646.1|,FAD-dependent oxidoreductase [Brevibacterium linens],WP_139909646,0.978,0.507
+ref|XP_007733299.1|,cyclohexanone monooxygenase [Capronia epimyces CBS 606.96],XP_007733299,1.011,0.535
+gb|OBT54752.1|,hypothetical protein VE04_05431 [Pseudogymnoascus sp. 24MN13],OBT54752,0.982,0.524
+ref|XP_013258293.1|,cyclohexanone monooxygenase [Exophiala aquamarina CBS 119918],XP_013258293,0.976,0.528
+ref|WP_164247642.1|,FAD-dependent oxidoreductase [Streptomyces sp. S4.7],WP_164247642,0.982,0.507
+ref|WP_146905264.1|,NAD(P)-binding domain-containing protein [Frigoribacterium sp. ACAM 257],WP_146905264,0.928,0.522
+gb|PZO61926.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudoxanthomonas suwonensis],PZO61926,0.978,0.506
+gb|OQO12628.1|,hypothetical protein B0A48_02090 [Rachicladosporium antarcticum],OQO12628,0.98,0.53
+ref|WP_132146156.1|,NAD(P)/FAD-dependent oxidoreductase [Actinomadura sp. 7K507],WP_132146156,0.98,0.526
+ref|WP_094800683.1|,NAD(P)/FAD-dependent oxidoreductase [Nocardiopsis dassonvillei],WP_094800683,0.976,0.506
+gb|PNS14599.1|,hypothetical protein CAC42_2656 [Sphaceloma murrayae],PNS14599,1.013,0.544
+gb|KAF2034026.1|,FAD/NAD(P)-binding domain-containing protein [Setomelanomma holmii],KAF2034026,1.011,0.542
+gb|KIV87586.1|,hypothetical protein PV11_03120 [Exophiala sideris],KIV87586,1.013,0.53
+ref|WP_019610416.1|,NAD(P)/FAD-dependent oxidoreductase [Nocardiopsis sp. CNS-639],WP_019610416,0.976,0.504
+ref|WP_013156022.1|,NAD(P)/FAD-dependent oxidoreductase [Nocardiopsis dassonvillei],WP_013156022,0.976,0.504
+ref|WP_130396283.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [unclassified Nocardiopsis],WP_130396283,0.976,0.502
+ref|WP_117198619.1|,NAD(P)/FAD-dependent oxidoreductase [Nocardiopsis sp. TNDT3],WP_117198619,0.976,0.502
+gb|OQO28297.1|,hypothetical protein B0A51_03916 [Rachicladosporium sp. CCFEE 5018],OQO28297,0.98,0.526
+gb|OQO22096.1|,hypothetical protein B0A51_09552 [Rachicladosporium sp. CCFEE 5018],OQO22096,0.978,0.528
+emb|SCO80723.1|,related to flavoprotein involved in K+ transport [Fusarium oxysporum],SCO80723,0.982,0.52
+ref|WP_153341075.1|,FAD-dependent oxidoreductase [Nocardia sp. RB56],WP_153341075,0.967,0.507
+gb|MAA73281.1|,cyclohexanone monooxygenase [Salinisphaeraceae bacterium],MAA73281,0.989,0.531
+gb|TVY76281.1|,Baeyer-Villiger monooxygenase [Fusarium oxysporum f. sp. cubense],TVY76281,0.982,0.518
+ref|WP_027929099.1|,NAD(P)/FAD-dependent oxidoreductase [Amycolatopsis thermoflava],WP_027929099,0.98,0.557
+gb|TKA70777.1|,hypothetical protein B0A55_05465 [Friedmanniomyces simplex],TKA70777,0.989,0.518
+gb|AGS49475.1|,cyclohexanone monooxygenase [uncultured bacterium esnapd6],AGS49475,0.974,0.5
+ref|WP_019928595.1|,NAD(P)/FAD-dependent oxidoreductase [Nocardia sp. BMG111209],WP_019928595,0.961,0.504
+ref|XP_016613950.1|,hypothetical protein Z519_12184 [Cladophialophora bantiana CBS 173.52],XP_016613950,1.026,0.535
+gb|EXM15038.1|,cyclohexanone monooxygenase [Fusarium oxysporum f. sp. vasinfectum 25433],EXM15038,0.982,0.518
+ref|WP_121139526.1|,NAD(P)/FAD-dependent oxidoreductase [Nocardioides sp. CF479],WP_121139526,0.961,0.511
+gb|RKK71064.1|,Baeyer-Villiger monooxygenase [Fusarium oxysporum],RKK71064,0.982,0.518
+gb|ENH68050.1|,"Cyclohexanone 1,2-monooxygenase [Fusarium oxysporum f. sp. cubense race 1]",ENH68050,0.982,0.517
+ref|WP_017982805.1|,NAD(P)/FAD-dependent oxidoreductase [Amycolatopsis methanolica],WP_017982805,0.98,0.557
+gb|EXA33866.1|,cyclohexanone monooxygenase [Fusarium oxysporum f. sp. pisi HDV247],EXA33866,0.982,0.518
+gb|KAF2120997.1|,hypothetical protein BDV96DRAFT_283413 [Lophiotrema nucula],KAF2120997,1.052,0.541
+ref|WP_158494000.1|,NAD(P)/FAD-dependent oxidoreductase [Micrococcus luteus],WP_158494000,0.983,0.509
+gb|EGU77780.1|,hypothetical protein FOXB_11710 [Fusarium oxysporum Fo5176],EGU77780,0.982,0.517
+ref|XP_003043692.1|,hypothetical protein NECHADRAFT_48101 [[Nectria] haematococca mpVI 77-13-4],XP_003043692,0.97,0.526
+gb|AGS49507.1|,cyclohexanone monooxygenase [uncultured bacterium esnapd7],AGS49507,0.974,0.498
+ref|WP_149259225.1|,FAD-dependent oxidoreductase [Actinomadura sp. K4S16],WP_149259225,0.969,0.524
+ref|WP_028646602.1|,NAD(P)/FAD-dependent oxidoreductase [Nocardiopsis sp. CNT312],WP_028646602,0.976,0.487
+gb|OQO01067.1|,hypothetical protein B0A48_13310 [Rachicladosporium antarcticum],OQO01067,0.994,0.522
+ref|XP_018691202.1|,cyclohexanone monooxygenase [Fonsecaea erecta],XP_018691202,1.004,0.52
+ref|WP_147103202.1|,NAD(P)-binding domain-containing protein [Pseudonocardia sulfidoxydans],WP_147103202,0.97,0.513
+ref|XP_008716582.1|,hypothetical protein HMPREF1541_04012 [Cyphellophora europaea CBS 101466],XP_008716582,0.993,0.517
+ref|WP_145783680.1|,FAD-dependent oxidoreductase [Streptomyces sp. CNZ287],WP_145783680,0.98,0.491
+ref|WP_067634747.1|,NAD(P)/FAD-dependent oxidoreductase [Actinomadura latina],WP_067634747,0.969,0.524
+ref|WP_058228527.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Rhodococcus],WP_058228527,0.969,0.496
+ref|WP_125938015.1|,NAD(P)/FAD-dependent oxidoreductase [Streptomyces sp. WAC 06738],WP_125938015,0.98,0.491
+ref|WP_103380803.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudonocardia dioxanivorans],WP_103380803,0.97,0.509
+ref|WP_013674374.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudonocardia dioxanivorans],WP_013674374,0.97,0.507
+ref|WP_047018977.1|,NAD(P)/FAD-dependent oxidoreductase [Streptomyces sp. CNQ-509],WP_047018977,0.98,0.491
+emb|CZT13237.1|,"related to Cyclohexanone 1,2-monooxygenase [Rhynchosporium agropyri]",CZT13237,1.007,0.509
+ref|XP_007721974.1|,cyclohexanone monooxygenase [Capronia coronata CBS 617.96],XP_007721974,1.057,0.53
+ref|WP_047269920.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus erythropolis],WP_047269920,0.969,0.494
+gb|KIW62213.1|,hypothetical protein PV04_10409 [Phialophora americana],KIW62213,1.048,0.542
+ref|WP_141489145.1|,MULTISPECIES: NAD(P)-binding domain-containing protein [unclassified Rhodococcus],WP_141489145,0.969,0.493
+ref|WP_133410363.1|,NAD(P)/FAD-dependent oxidoreductase [Kocuria rosea],WP_133410363,0.972,0.48
+gb|KAF3035528.1|,"hypothetical protein E8E12_001126, partial [Didymella heteroderae]",KAF3035528,1.009,0.52
+gb|KAF1920680.1|,cyclohexanone monooxygenase [Ampelomyces quisqualis],KAF1920680,0.978,0.511
+ref|WP_101420617.1|,NAD(P)/FAD-dependent oxidoreductase [Streptomyces sp. CMB-StM0423],WP_101420617,0.98,0.483
+gb|RMX89196.1|,hypothetical protein D0869_01049 [Hortaea werneckii],RMX89196,0.983,0.513
+gb|RMZ03116.1|,hypothetical protein D0864_03031 [Hortaea werneckii],RMZ03116,0.983,0.513
+ref|WP_161994834.1|,"NAD(P)/FAD-dependent oxidoreductase, partial [Rhodococcus sp. YH1]",WP_161994834,0.913,0.491
+ref|WP_098955851.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudonocardia sp. N23],WP_098955851,0.97,0.506
+ref|WP_067724508.1|,NAD(P)/FAD-dependent oxidoreductase [Oceanobacillus damuensis],WP_067724508,0.958,0.485
+emb|CZT03901.1|,"related to Cyclohexanone 1,2-monooxygenase [Rhynchosporium commune]",CZT03901,1.007,0.509
+gb|RMY02776.1|,hypothetical protein D0868_07802 [Hortaea werneckii],RMY02776,0.98,0.513
+ref|XP_024735661.1|,FAD/NAD(P)-binding domain-containing protein [Hyaloscypha bicolor E],XP_024735661,1.03,0.517
+gb|KAE9975207.1|,hypothetical protein EG327_008520 [Venturia inaequalis],KAE9975207,0.97,0.5
+ref|WP_011331502.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus erythropolis],WP_011331502,0.969,0.491
+gb|KAF2247881.1|,cyclohexanone monooxygenase [Trematosphaeria pertusa],KAF2247881,1.015,0.528
+gb|NCL72969.1|,Baeyer-Villiger monooxygenase [Rhodococcus sp. YH1],NCL72969,0.904,0.485
+gb|KAF2211486.1|,hypothetical protein CERZMDRAFT_98373 [Cercospora zeae-maydis SCOH1-5],KAF2211486,0.976,0.496
+gb|PSK44012.1|,hypothetical protein B9Z65_1729 [Elsinoe australis],PSK44012,1.033,0.513
+gb|KAF2826994.1|,cyclohexanone monooxygenase [Ophiobolus disseminans],KAF2826994,1.007,0.507
+ref|WP_051548534.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Dyella],WP_051548534,0.972,0.494
+gb|ODU07596.1|,cyclohexanone monooxygenase [Pseudonocardia sp. SCN 72-86],ODU07596,0.982,0.504
+ref|XP_013254920.1|,cyclohexanone monooxygenase [Exophiala aquamarina CBS 119918],XP_013254920,1.022,0.528
+gb|ODU27081.1|,cyclohexanone monooxygenase [Pseudonocardia sp. SCN 72-51],ODU27081,0.982,0.502
+gb|RMY81937.1|,hypothetical protein D0861_08108 [Hortaea werneckii],RMY81937,0.983,0.511
+gb|OQO27341.1|,hypothetical protein B0A51_07595 [Rachicladosporium sp. CCFEE 5018],OQO27341,0.982,0.496
+ref|XP_007761101.1|,cyclohexanone monooxygenase [Cladophialophora yegresii CBS 114405],XP_007761101,0.98,0.513
+gb|OJI96494.1|,hypothetical protein ASPVEDRAFT_872232 [Aspergillus versicolor CBS 583.65],OJI96494,0.965,0.493
+gb|TKA65676.1|,hypothetical protein B0A49_08156 [Cryomyces minteri],TKA65676,1.015,0.507
+gb|PPJ53371.1|,hypothetical protein CBER1_00953 [Cercospora berteroae],PPJ53371,0.976,0.496
+gb|QDJ94213.1|,SpzQ1 [Streptomyces sp.],QDJ94213,0.98,0.476
+gb|OAL56024.1|,hypothetical protein IQ07DRAFT_628017 [Pyrenochaeta sp. DS3sAY3a],OAL56024,0.97,0.494
+ref|XP_008730432.1|,hypothetical protein G647_07898 [Cladophialophora carrionii CBS 160.54],XP_008730432,0.98,0.507
+gb|OCT45246.1|,"Cyclohexanone 1,2-monooxygenase [Cladophialophora carrionii]",OCT45246,0.98,0.507
+ref|XP_022502692.1|,hypothetical protein AYO20_03187 [Fonsecaea nubica],XP_022502692,0.985,0.507
+ref|XP_018277314.1|,FAD-dependent pyridine nucleotide-disulfide oxidoreductase [Cutaneotrichosporon oleaginosum],XP_018277314,0.978,0.494
+gb|OQD85595.1|,hypothetical protein PENSOL_c097G07314 [Penicillium solitum],OQD85595,0.978,0.504
+ref|XP_007776369.1|,hypothetical protein W97_00263 [Coniosporium apollinis CBS 100218],XP_007776369,0.985,0.502
+emb|CZR69687.1|,related to flavoprotein involved in K+ transport [Phialocephala subalpina],CZR69687,1.015,0.506
+ref|XP_016253534.1|,hypothetical protein PV07_00176 [Cladophialophora immunda],XP_016253534,0.985,0.498
+ref|XP_023460246.1|,Baeyer-Villiger monooxygenase [Cercospora beticola],XP_023460246,0.976,0.491
+gb|KAF2482206.1|,monooxygenase [Neohortaea acidophila],KAF2482206,1.015,0.507
+gb|OQD72773.1|,hypothetical protein PENDEC_c019G06718 [Penicillium decumbens],OQD72773,0.978,0.502
+gb|KXL48962.1|,hypothetical protein FE78DRAFT_140916 [Acidomyces richmondensis],KXL48962,0.976,0.5
+gb|EME49158.1|,hypothetical protein DOTSEDRAFT_68033 [Dothistroma septosporum NZE10],EME49158,0.959,0.507
+ref|XP_015402735.1|,uncharacterized protein ANOM_010750 [Aspergillus nomius NRRL 13137],XP_015402735,0.976,0.487
+ref|WP_120005745.1|,NAD(P)/FAD-dependent oxidoreductase [Nesterenkonia muleiensis],WP_120005745,1.004,0.482
+gb|PKR94810.1|,Baeyer-Villiger monooxygenase [Cercospora zeina],PKR94810,0.945,0.485
+ref|XP_013290206.1|,hypothetical protein Z517_01794 [Fonsecaea pedrosoi CBS 271.37],XP_013290206,0.985,0.504
+ref|WP_052225475.1|,NAD(P)/FAD-dependent oxidoreductase [Mesorhizobium sp. F7],WP_052225475,0.969,0.476
+ref|XP_016614637.1|,hypothetical protein Z519_11553 [Cladophialophora bantiana CBS 173.52],XP_016614637,0.987,0.502
+gb|RDI83645.1|,hypothetical protein Vi05172_g6328 [Venturia inaequalis],RDI83645,0.98,0.493
+gb|KAE9962356.1|,hypothetical protein BLS_000439 [Venturia inaequalis],KAE9962356,0.98,0.493
+ref|XP_007742824.1|,cyclohexanone monooxygenase [Cladophialophora psammophila CBS 110553],XP_007742824,0.987,0.506
+gb|OQU95640.1|,hypothetical protein CLAIMM_01822 [Cladophialophora immunda],OQU95640,1.004,0.5
+ref|XP_001266500.1|,monooxygenase [Aspergillus fischeri NRRL 181],XP_001266500,0.987,0.498
+ref|XP_022392420.1|,hypothetical protein ABOM_002072 [Aspergillus bombycis],XP_022392420,0.98,0.485
+gb|OQV08792.1|,Peptidase M16 inactive domain-containing protein [Cladophialophora immunda],OQV08792,0.985,0.491
+ref|XP_031864699.1|,Uncharacterized protein BP5553_10636 [Venustampulla echinocandica],XP_031864699,0.969,0.496
+ref|XP_018696058.1|,hypothetical protein AYL99_01918 [Fonsecaea erecta],XP_018696058,0.982,0.5
+emb|CVK96556.1|,related to flavoprotein involved in K+ transport [Fusarium mangiferae],CVK96556,0.921,0.483
+gb|PMD22327.1|,FAD/NAD(P)-binding domain-containing protein [Pezoloma ericae],PMD22327,1.037,0.506
+ref|XP_018691189.1|,hypothetical protein AYL99_08560 [Fonsecaea erecta],XP_018691189,0.991,0.494
+gb|RBP07299.1|,cation diffusion facilitator CzcD-associated flavoprotein CzcO [Roseiarcus fermentans],RBP07299,0.982,0.476
+ref|XP_022517027.1|,hypothetical protein AYO21_00423 [Fonsecaea monophora],XP_022517027,0.993,0.502
+ref|XP_013283067.1|,hypothetical protein Z517_05871 [Fonsecaea pedrosoi CBS 271.37],XP_013283067,0.993,0.502
+ref|XP_007296598.1|,monooxygenase [Marssonina brunnea f. sp. 'multigermtubi' MB_m1],XP_007296598,1.041,0.5
+gb|KJX95987.1|,cyclohexanone monooxygenase like protein [Zymoseptoria brevis],KJX95987,0.993,0.496
+gb|KAF2101361.1|,cyclohexanone monooxygenase [Rhizodiscina lignyota],KAF2101361,1,0.507
+gb|KIW64611.1|,hypothetical protein PV04_09534 [Phialophora americana],KIW64611,0.978,0.498
+ref|XP_007750305.1|,cyclohexanone monooxygenase [Cladophialophora psammophila CBS 110553],XP_007750305,0.987,0.502
+gb|OQU95234.1|,hypothetical protein CLAIMM_01470 [Cladophialophora immunda],OQU95234,0.982,0.474
+ref|XP_009153542.1|,cyclohexanone monooxygenase [Exophiala dermatitidis NIH/UT8656],XP_009153542,0.974,0.498
+gb|KFZ09433.1|,hypothetical protein V502_08753 [Pseudogymnoascus sp. VKM F-4520 (FW-2644)],KFZ09433,1.044,0.498
+gb|KFY92636.1|,hypothetical protein V500_04110 [Pseudogymnoascus sp. VKM F-4518 (FW-2643)],KFY92636,1.044,0.498
+ref|XP_016249123.1|,hypothetical protein PV07_04761 [Cladophialophora immunda],XP_016249123,0.985,0.491
+gb|KAB2573139.1|,Baeyer-Villiger monooxygenase [Lasiodiplodia theobromae],KAB2573139,0.983,0.489
+ref|XP_022501534.1|,hypothetical protein AYO20_04138 [Fonsecaea nubica],XP_022501534,0.993,0.498
+ref|XP_014181438.1|,cyclohexanone monooxygenase [Trichosporon asahii var. asahii CBS 2479],XP_014181438,0.974,0.496
+gb|TKA31535.1|,hypothetical protein B0A54_15669 [Friedmanniomyces endolithicus],TKA31535,0.98,0.504
+ref|WP_121278470.1|,NAD(P)/FAD-dependent oxidoreductase [Paraburkholderia sp. 7MK8-2],WP_121278470,0.976,0.483
+gb|PSN68528.1|,FAD/NAD(P)-binding domain-containing protein [Corynespora cassiicola Philippines],PSN68528,0.983,0.478
+ref|XP_018003885.1|,"Cyclohexanone 1,2-monooxygenase [Phialophora attinorum]",XP_018003885,0.998,0.487
+ref|XP_016638279.1|,hypothetical protein Z520_00849 [Fonsecaea multimorphosa CBS 102226],XP_016638279,0.989,0.491
+gb|OBT50766.1|,hypothetical protein VE04_08752 [Pseudogymnoascus sp. 24MN13],OBT50766,1.044,0.496
+ref|XP_026612195.1|,hypothetical protein CDV56_102963 [Aspergillus thermomutatus],XP_026612195,0.993,0.498
+gb|EKD01188.1|,cyclohexanone monooxygenase [Trichosporon asahii var. asahii CBS 8904],EKD01188,0.974,0.494
+ref|XP_018125408.1|,hypothetical protein VE01_10318 [Pseudogymnoascus verrucosus],XP_018125408,1.044,0.494
+tpg|HCB02768.1|,NAD(P)/FAD-dependent oxidoreductase [Nocardioides bacterium],HCB02768,0.965,0.472
+gb|RVX71484.1|,hypothetical protein B0A52_05056 [Exophiala mesophila],RVX71484,0.982,0.493
+emb|SMR52039.1|,unnamed protein product [Zymoseptoria tritici ST99CH_3D1],SMR52039,0.993,0.493
+gb|KAF2634683.1|,cyclohexanone monooxygenase [Massarina eburnea CBS 473.64],KAF2634683,0.976,0.487
+gb|TID23681.1|,hypothetical protein E6O75_ATG03317 [Venturia nashicola],TID23681,0.98,0.491
+tpg|HBX94816.1|,NAD(P)/FAD-dependent oxidoreductase [Hyphomonas sp.],HBX94816,0.843,0.478
+ref|WP_167253770.1|,FAD-dependent oxidoreductase [Dyella sp. SG562],WP_167253770,0.998,0.487
+ref|XP_017996521.1|,Baeyer-Villiger monooxygenase [Phialophora attinorum],XP_017996521,0.98,0.485
+ref|WP_102644819.1|,NAD(P)/FAD-dependent oxidoreductase [Burkholderia dabaoshanensis],WP_102644819,0.982,0.478
+gb|OBT82916.1|,hypothetical protein VE02_08964 [Pseudogymnoascus sp. 03VT05],OBT82916,1.044,0.494
+ref|XP_016619640.1|,hypothetical protein Z519_06820 [Cladophialophora bantiana CBS 173.52],XP_016619640,0.987,0.491
+gb|KAF1847089.1|,FAD/NAD(P)-binding domain-containing protein [Cucurbitaria berberidis CBS 394.84],KAF1847089,0.972,0.469
+ref|WP_116140107.1|,NAD(P)/FAD-dependent oxidoreductase [Paraburkholderia sp. NEAU-SY24],WP_116140107,0.982,0.476
+emb|SMQ50122.1|,unnamed protein product [Zymoseptoria tritici ST99CH_3D7],SMQ50122,0.993,0.491
+gb|KAF2794940.1|,cyclohexanone monooxygenase [Melanomma pulvis-pyrius CBS 109.77],KAF2794940,0.967,0.474
+ref|XP_022399072.1|,hypothetical protein ASPGLDRAFT_27223 [Aspergillus glaucus CBS 516.65],XP_022399072,0.976,0.493
+gb|TKA40291.1|,hypothetical protein B0A54_10897 [Friedmanniomyces endolithicus],TKA40291,0.98,0.502
+gb|AID21777.1|,putative monooxygenase [Streptomyces sp. SpC080624SC-11],AID21777,0.993,0.482
+gb|NII72448.1|,cation diffusion facilitator CzcD-associated flavoprotein CzcO [Dyella sp. SG562],NII72448,0.998,0.485
+gb|RMJ18463.1|,hypothetical protein CDV36_001883 [Fusarium kuroshium],RMJ18463,0.972,0.467
+ref|XP_016213122.1|,hypothetical protein PV09_05474 [Verruconis gallopava],XP_016213122,0.978,0.485
+gb|PCD26188.1|,hypothetical protein AU210_012620 [Fusarium oxysporum f. sp. radicis-cucumerinum],PCD26188,0.95,0.474
+gb|OQU99963.1|,hypothetical protein CLAIMM_05529 [Cladophialophora immunda],OQU99963,0.969,0.472
+gb|KFY89896.1|,hypothetical protein V498_06285 [Pseudogymnoascus sp. VKM F-4517 (FW-2822)],KFY89896,1.044,0.496
+ref|XP_016264415.1|,hypothetical protein PV06_05227 [Exophiala oligosperma],XP_016264415,1.007,0.487
+ref|XP_013320755.1|,hypothetical protein PV05_00409 [Exophiala xenobiotica],XP_013320755,0.983,0.485
+gb|RFU34890.1|,"Flavin-containing monooxygenase, partial [Scytalidium lignicola]",RFU34890,0.969,0.493
+ref|XP_016765658.1|,FAD/NAD(P)-binding domain-containing protein [Sphaerulina musiva SO2202],XP_016765658,0.985,0.491
+ref|WP_137932338.1|,NAD(P)/FAD-dependent oxidoreductase [Mesorhizobium sp. 3P27G6],WP_137932338,0.969,0.476
+gb|RSL61203.1|,hypothetical protein CEP53_005186 [Fusarium sp. AF-6],RSL61203,0.972,0.469
+ref|XP_003853073.1|,uncharacterized protein MYCGRDRAFT_71361 [Zymoseptoria tritici IPO323],XP_003853073,0.994,0.493
+gb|RKK11516.1|,"Cyclohexanone 1,2-monooxygenase [Fusarium oxysporum f. sp. cepae]",RKK11516,0.95,0.472
+gb|RKL27543.1|,"Cyclohexanone 1,2-monooxygenase [Fusarium oxysporum]",RKL27543,0.95,0.472
+gb|RKK89378.1|,"Cyclohexanone 1,2-monooxygenase [Fusarium oxysporum]",RKK89378,0.95,0.472
+ref|WP_125036905.1|,NAD(P)/FAD-dependent oxidoreductase [Nocardioides sp. LS1],WP_125036905,0.963,0.461
+ref|XP_013283274.1|,hypothetical protein Z517_06078 [Fonsecaea pedrosoi CBS 271.37],XP_013283274,1.002,0.487
+gb|EXK30479.1|,hypothetical protein FOMG_13285 [Fusarium oxysporum f. sp. melonis 26406],EXK30479,0.95,0.472
+ref|XP_008718286.1|,hypothetical protein HMPREF1541_05727 [Cyphellophora europaea CBS 101466],XP_008718286,0.982,0.474
+gb|RMJ26580.1|,Flavin-binding monooxygenase-like protein [Aspergillus sp. HF37],RMJ26580,1.035,0.482
+ref|WP_051549441.1|,NAD(P)/FAD-dependent oxidoreductase [Nocardioides sp. URHA0032],WP_051549441,0.967,0.461
+gb|RVX72008.1|,hypothetical protein B0A52_04606 [Exophiala mesophila],RVX72008,0.976,0.47
+gb|OCK77439.1|,cyclohexanone monooxygenase [Lepidopterella palustris CBS 459.81],OCK77439,0.97,0.476
+gb|RSM16700.1|,hypothetical protein CDV31_004472 [Fusarium ambrosium],RSM16700,0.972,0.463
+gb|TVY70779.1|,"Cyclohexanone 1,2-monooxygenase [Fusarium oxysporum f. sp. cubense]",TVY70779,0.976,0.472
+ref|WP_090685630.1|,NAD(P)/FAD-dependent oxidoreductase [Paraburkholderia phenazinium],WP_090685630,0.969,0.461
+gb|EWZ29876.1|,hypothetical protein FOZG_16733 [Fusarium oxysporum Fo47],EWZ29876,0.95,0.47
+ref|XP_018257817.1|,hypothetical protein FOXG_16975 [Fusarium oxysporum f. sp. lycopersici 4287],XP_018257817,0.95,0.47
+ref|XP_007919750.1|,uncharacterized protein MYCFIDRAFT_26387 [Pseudocercospora fijiensis CIRAD86],XP_007919750,0.985,0.489
+ref|WP_121215109.1|,NAD(P)/FAD-dependent oxidoreductase [Lysinibacillus endophyticus],WP_121215109,0.958,0.483
+gb|RTE84113.1|,hypothetical protein BHE90_001276 [Fusarium euwallaceae],RTE84113,0.972,0.465
+ref|XP_016631872.1|,hypothetical protein Z520_06527 [Fonsecaea multimorphosa CBS 102226],XP_016631872,0.982,0.463
+gb|PSN67742.1|,cyclohexanone monooxygenase [Corynespora cassiicola Philippines],PSN67742,0.972,0.474
+ref|XP_007749784.1|,hypothetical protein A1O5_11021 [Cladophialophora psammophila CBS 110553],XP_007749784,0.987,0.48
+gb|PLN84627.1|,FAD/NAD(P)-binding domain-containing protein [Aspergillus taichungensis],PLN84627,0.989,0.465
+gb|AET80001.1|,cycloalkanone monooxygenase [Ilyonectria destructans],AET80001,0.972,0.458
+ref|XP_008726033.1|,hypothetical protein G647_03466 [Cladophialophora carrionii CBS 160.54],XP_008726033,0.976,0.489
+ref|XP_024691056.1|,FAD/NAD(P)-binding domain-containing protein [Aspergillus campestris IBT 28561],XP_024691056,0.98,0.461
+gb|OQO03984.1|,hypothetical protein B0A48_10627 [Rachicladosporium antarcticum],OQO03984,0.982,0.485
+gb|RKK66611.1|,"Cyclohexanone 1,2-monooxygenase [Fusarium oxysporum]",RKK66611,0.95,0.467
+gb|KIW68017.1|,hypothetical protein PV04_03992 [Phialophora americana],KIW68017,0.976,0.485
+gb|OJJ36329.1|,hypothetical protein ASPWEDRAFT_109054 [Aspergillus wentii DTO 134E9],OJJ36329,0.976,0.472
+ref|XP_013948355.1|,hypothetical protein TRIATDRAFT_297097 [Trichoderma atroviride IMI 206040],XP_013948355,0.983,0.478
+gb|EXL39890.1|,hypothetical protein FOCG_17489 [Fusarium oxysporum f. sp. radicis-lycopersici 26381],EXL39890,0.95,0.469
+gb|TKA35482.1|,hypothetical protein B0A54_12142 [Friedmanniomyces endolithicus],TKA35482,0.993,0.485
+gb|OAL46525.1|,FAD-dependent pyridine nucleotide-disulfide oxidoreductase [Pyrenochaeta sp. DS3sAY3a],OAL46525,0.972,0.463
+gb|RFU78295.1|,cyclohexanone monooxygenase [Trichoderma arundinaceum],RFU78295,0.978,0.482
+gb|KAF2653647.1|,FAD/NAD(P)-binding domain-containing protein [Lophiostoma macrostomum CBS 122681],KAF2653647,0.967,0.504
+ref|XP_016633351.1|,hypothetical protein Z520_04804 [Fonsecaea multimorphosa CBS 102226],XP_016633351,1.002,0.489
+ref|WP_113891441.1|,NAD(P)/FAD-dependent oxidoreductase [Roseiarcus fermentans],WP_113891441,0.946,0.459
+gb|EQB51692.1|,hypothetical protein CGLO_08726 [Colletotrichum gloeosporioides Cg-14],EQB51692,1.015,0.463
+ref|XP_007673329.1|,uncharacterized protein BAUCODRAFT_119354 [Baudoinia panamericana UAMH 10762],XP_007673329,0.978,0.487
+ref|XP_023632125.1|,"related to Cyclohexanone 1,2-monooxygenase [Ramularia collo-cygni]",XP_023632125,0.983,0.493
+ref|WP_093792575.1|,NAD(P)/FAD-dependent oxidoreductase [Streptomyces sp. cf124],WP_093792575,0.941,0.465
+gb|KAF2687383.1|,cyclohexanone monooxygenase [Lentithecium fluviatile CBS 122367],KAF2687383,0.928,0.478
+gb|TLD36360.1|,hypothetical protein E2P81_ATG03249 [Venturia nashicola],TLD36360,0.98,0.483
+ref|XP_017998554.1|,Baeyer-Villiger monooxygenase [Phialophora attinorum],XP_017998554,0.987,0.493
+gb|OQO25271.1|,"hypothetical protein B0A51_08834, partial [Rachicladosporium sp. CCFEE 5018]",OQO25271,0.976,0.496
+ref|WP_133987901.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus opacus],WP_133987901,0.952,0.474
+gb|OCT45556.1|,"Cyclohexanone 1,2-monooxygenase [Cladophialophora carrionii]",OCT45556,0.982,0.48
+ref|XP_013281817.1|,hypothetical protein Z517_07842 [Fonsecaea pedrosoi CBS 271.37],XP_013281817,0.982,0.467
+gb|KFY69280.1|,hypothetical protein V496_00368 [Pseudogymnoascus sp. VKM F-4515 (FW-2607)],KFY69280,1.044,0.494
+gb|KAF3024623.1|,hypothetical protein E8E15_009111 [Penicillium rubens],KAF3024623,1.066,0.47
+ref|XP_016239629.1|,hypothetical protein PV08_03708 [Exophiala spinifera],XP_016239629,0.996,0.476
+gb|OJJ01939.1|,hypothetical protein ASPVEDRAFT_52754 [Aspergillus versicolor CBS 583.65],OJJ01939,0.989,0.463
+gb|OAL25924.1|,hypothetical protein AYO22_04551 [Fonsecaea multimorphosa],OAL25924,1.007,0.489
+ref|XP_022494281.1|,hypothetical protein AYO20_11488 [Fonsecaea nubica],XP_022494281,0.982,0.467
+tpg|HAN72086.1|,NAD(P)/FAD-dependent oxidoreductase [Actinobacteria bacterium],HAN72086,0.954,0.463
+gb|RVX73668.1|,hypothetical protein B0A52_02558 [Exophiala mesophila],RVX73668,0.978,0.496
+gb|KAF2172399.1|,hypothetical protein M409DRAFT_17633 [Zasmidium cellare ATCC 36951],KAF2172399,0.989,0.474
+gb|KOS40474.1|,hypothetical protein ACN38_g8658 [Penicillium nordicum],KOS40474,1.083,0.474
+ref|XP_002560095.1|,Pc14g01010 [Penicillium rubens Wisconsin 54-1255],XP_002560095,1.055,0.469
+gb|RSM06221.1|,hypothetical protein CEP52_005856 [Fusarium sp. AF-4],RSM06221,0.935,0.452
+ref|XP_031877229.1|,"Cyclohexanone 1,2-monooxygenase [Colletotrichum fructicola]",XP_031877229,1,0.459
+ref|XP_016257020.1|,hypothetical protein PV06_10926 [Exophiala oligosperma],XP_016257020,0.974,0.474
+ref|XP_031884597.1|,"Cyclohexanone 1,2-monooxygenase [Colletotrichum fructicola]",XP_031884597,0.974,0.478
+ref|XP_016223439.1|,hypothetical protein PV10_06356 [Exophiala mesophila],XP_016223439,0.978,0.494
+ref|WP_153488821.1|,NAD(P)-binding domain-containing protein [Rhizobiales bacterium Sp-1],WP_153488821,0.941,0.458
+ref|XP_007733384.1|,hypothetical protein A1O3_05066 [Capronia epimyces CBS 606.96],XP_007733384,1.004,0.483
+gb|TKA45764.1|,hypothetical protein B0A54_03449 [Friedmanniomyces endolithicus],TKA45764,0.993,0.478
+gb|OQO30170.1|,hypothetical protein B0A51_03514 [Rachicladosporium sp. CCFEE 5018],OQO30170,0.98,0.47
+gb|KXG49757.1|,hypothetical protein PGRI_057250 [Penicillium griseofulvum],KXG49757,1.07,0.465
+gb|OQO13281.1|,hypothetical protein B0A48_01509 [Rachicladosporium antarcticum],OQO13281,0.98,0.47
+gb|KXT08616.1|,hypothetical protein AC579_4462 [Pseudocercospora musae],KXT08616,0.994,0.474
+gb|OJJ52384.1|,hypothetical protein ASPSYDRAFT_164733 [Aspergillus sydowii CBS 593.65],OJJ52384,0.985,0.456
+ref|WP_051276103.1|,NAD(P)/FAD-dependent oxidoreductase [Marmoricola sp. URHB0036],WP_051276103,0.963,0.465
+ref|XP_014175988.1|,cyclohexanone monooxygenase [Grosmannia clavigera kw1407],XP_014175988,0.969,0.478
+ref|XP_016624632.1|,hypothetical protein Z519_01547 [Cladophialophora bantiana CBS 173.52],XP_016624632,1,0.452
+ref|WP_125189998.1|,NAD(P)/FAD-dependent oxidoreductase [Streptomyces sp. RP5T],WP_125189998,0.941,0.456
+gb|KAF2772372.1|,FAD/NAD(P)-binding domain-containing protein [Teratosphaeria nubilosa],KAF2772372,0.98,0.472
+gb|MXX31103.1|,NAD(P)/FAD-dependent oxidoreductase [Chloroflexi bacterium],MXX31103,0.98,0.439
+gb|KAF0320426.1|,cyclohexanone monooxygenase [Colletotrichum asianum],KAF0320426,0.974,0.474
+ref|XP_016241693.1|,hypothetical protein PV08_02057 [Exophiala spinifera],XP_016241693,0.993,0.472
+ref|WP_113891403.1|,NAD(P)/FAD-dependent oxidoreductase [Roseiarcus fermentans],WP_113891403,0.967,0.458
+ref|WP_086758675.1|,NAD(P)/FAD-dependent oxidoreductase [Streptomyces scabiei],WP_086758675,0.941,0.452
+ref|XP_016638022.1|,hypothetical protein Z520_00592 [Fonsecaea multimorphosa CBS 102226],XP_016638022,0.963,0.443
+gb|KAF3011716.1|,hypothetical protein E8E14_009775 [Neopestalotiopsis sp. 37M],KAF3011716,0.983,0.456
+gb|PGH06311.1|,hypothetical protein AJ79_06554 [Helicocarpus griseus UAMH5409],PGH06311,1.035,0.482
+gb|KKP06740.1|,hypothetical protein THAR02_01125 [Trichoderma harzianum],KKP06740,0.972,0.465
+gb|KAE8342027.1|,hypothetical protein BDV24DRAFT_150815 [Aspergillus arachidicola],KAE8342027,0.976,0.445
+gb|PVH90843.1|,FAD-dependent pyridine nucleotide-disulfide oxidoreductase [Periconia macrospinosa],PVH90843,0.974,0.469
+ref|WP_092551606.1|,NAD(P)/FAD-dependent oxidoreductase [Herbiconiux ginsengi],WP_092551606,0.941,0.454
+gb|KAB8225910.1|,hypothetical protein BDV33DRAFT_163463 [Aspergillus novoparasiticus],KAB8225910,0.976,0.443
+gb|THZ50755.1|,"cyclopentanone 1,2-monooxygenase, partial [Aureobasidium pullulans]",THZ50755,0.887,0.45
+ref|XP_003043666.1|,hypothetical protein NECHADRAFT_54743 [[Nectria] haematococca mpVI 77-13-4],XP_003043666,0.948,0.445
+ref|WP_161351536.1|,FAD-dependent oxidoreductase [Maritimibacter sp. DP07],WP_161351536,0.965,0.454
+ref|XP_007740720.1|,hypothetical protein A1O5_01914 [Cladophialophora psammophila CBS 110553],XP_007740720,1,0.45
+ref|XP_016636383.1|,hypothetical protein Z520_02399 [Fonsecaea multimorphosa CBS 102226],XP_016636383,0.946,0.446
+gb|KIW71915.1|,hypothetical protein PV04_00142 [Phialophora americana],KIW71915,0.934,0.448
+ref|XP_016253834.1|,hypothetical protein PV07_00454 [Cladophialophora immunda],XP_016253834,0.963,0.448
+ref|XP_013958106.1|,hypothetical protein TRIVIDRAFT_67551 [Trichoderma virens Gv29-8],XP_013958106,0.978,0.465
+gb|KAE8323200.1|,hypothetical protein BDV39DRAFT_217993 [Aspergillus sergii],KAE8323200,0.987,0.443
+gb|MXW24706.1|,NAD(P)/FAD-dependent oxidoreductase [Dehalococcoidia bacterium],MXW24706,0.987,0.452
+gb|PIG80156.1|,dimethylaniline monooxygenase [Aspergillus arachidicola],PIG80156,0.976,0.443
+ref|XP_016239949.1|,hypothetical protein PV08_00307 [Exophiala spinifera],XP_016239949,0.978,0.459
+gb|MYA53795.1|,NAD(P)/FAD-dependent oxidoreductase [Dehalococcoidia bacterium],MYA53795,0.987,0.452
+ref|WP_085021813.1|,NAD(P)/FAD-dependent oxidoreductase [Cnuibacter physcomitrellae],WP_085021813,0.941,0.456
+ref|XP_007837903.1|,hypothetical protein PFICI_11131 [Pestalotiopsis fici W106-1],XP_007837903,1.006,0.459
+gb|KAB8278306.1|,hypothetical protein BDV30DRAFT_140187 [Aspergillus minisclerotigenes],KAB8278306,0.976,0.439
+gb|OAI43152.1|,cyclohexanone monooxygenase [bacterium SCGC AG-212-C10],OAI43152,0.985,0.452
+ref|XP_031893906.1|,uncharacterized protein BDW43DRAFT_295052 [Aspergillus alliaceus],XP_031893906,1.009,0.472
+ref|XP_013266355.1|,cyclohexanone monooxygenase [Exophiala aquamarina CBS 119918],XP_013266355,0.978,0.459
+ref|XP_017995158.1|,"Cyclohexanone 1,2-monooxygenase [Phialophora attinorum]",XP_017995158,0.97,0.465
+ref|WP_087562277.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus sp. NCIMB 12038],WP_087562277,0.952,0.454
+ref|XP_015411626.1|,putative dimethylaniline monooxygenase [Aspergillus nomius NRRL 13137],XP_015411626,0.976,0.441
+ref|WP_083156499.1|,NAD(P)/FAD-dependent oxidoreductase [Mycolicibacterium moriokaense],WP_083156499,0.982,0.452
+gb|MXY87485.1|,NAD(P)/FAD-dependent oxidoreductase [Dehalococcoidia bacterium],MXY87485,0.987,0.456
+dbj|BBX04960.1|,cyclohexanone monooxygenase [Mycolicibacterium moriokaense],BBX04960,0.982,0.452
+ref|XP_013266457.1|,cyclohexanone monooxygenase [Exophiala aquamarina CBS 119918],XP_013266457,0.982,0.491
+ref|XP_001794743.1|,hypothetical protein SNOG_04325 [Parastagonospora nodorum SN15],XP_001794743,0.978,0.465
+gb|KJK61099.1|,TrkA [Aspergillus parasiticus SU-1],KJK61099,0.976,0.437
+ref|XP_022513319.1|,hypothetical protein AYO21_04309 [Fonsecaea monophora],XP_022513319,0.978,0.467
+gb|MYD54619.1|,NAD(P)/FAD-dependent oxidoreductase [Chloroflexi bacterium],MYD54619,0.98,0.428
+gb|PZN72165.1|,cyclohexanone monooxygenase [Firmicutes bacterium],PZN72165,0.98,0.454
+ref|XP_022576903.1|,hypothetical protein ASPZODRAFT_2119969 [Penicilliopsis zonata CBS 506.65],XP_022576903,0.919,0.443
+gb|MXX47135.1|,NAD(P)/FAD-dependent oxidoreductase [Chloroflexi bacterium],MXX47135,0.98,0.428
+gb|KAE8385106.1|,hypothetical protein BDV23DRAFT_25562 [Aspergillus alliaceus],KAE8385106,1.009,0.47
+gb|KAE8161976.1|,hypothetical protein BDV40DRAFT_288938 [Aspergillus tamarii],KAE8161976,0.974,0.443
+gb|MQG42545.1|,NAD(P)/FAD-dependent oxidoreductase [SAR202 cluster bacterium],MQG42545,1.002,0.443
+gb|KKZ68343.1|,hypothetical protein EMCG_06019 [Emmonsia crescens UAMH 3008],KKZ68343,1.059,0.493
+gb|PKB62291.1|,cyclohexanone monooxygenase [SAR202 cluster bacterium Ae2-Chloro-G3],PKB62291,0.982,0.445
+ref|XP_024752228.1|,FAD/NAD(P)-binding domain-containing protein [Trichoderma citrinoviride],XP_024752228,0.972,0.465
+gb|KAB8206325.1|,hypothetical protein BDV34DRAFT_194196 [Aspergillus parasiticus],KAB8206325,0.976,0.435
+gb|PCJ72272.1|,cyclohexanone monooxygenase [Dehalococcoidia bacterium],PCJ72272,1.002,0.443
+gb|MXV79462.1|,NAD(P)/FAD-dependent oxidoreductase [Chloroflexi bacterium],MXV79462,0.98,0.426
+ref|XP_002377626.1|,"dimethylaniline monooxygenase, putative [Aspergillus flavus NRRL3357]",XP_002377626,0.976,0.437
+gb|MQG56186.1|,NAD(P)/FAD-dependent oxidoreductase [SAR202 cluster bacterium],MQG56186,1.009,0.448
+gb|MXY72797.1|,NAD(P)/FAD-dependent oxidoreductase [Dehalococcoidia bacterium],MXY72797,0.987,0.461
+gb|MYA02310.1|,NAD(P)/FAD-dependent oxidoreductase [Chloroflexi bacterium],MYA02310,0.98,0.424
+ref|XP_013287569.1|,hypothetical protein Z517_03007 [Fonsecaea pedrosoi CBS 271.37],XP_013287569,0.978,0.465
+gb|RVX68284.1|,hypothetical protein B0A52_07287 [Exophiala mesophila],RVX68284,0.974,0.456
+gb|KAE8311269.1|,hypothetical protein BDV41DRAFT_347941 [Aspergillus transmontanensis],KAE8311269,0.976,0.435
+gb|KAF2485532.1|,hypothetical protein BDY17DRAFT_322366 [Neohortaea acidophila],KAF2485532,0.989,0.476
+gb|ATY60696.1|,NAD(P)-binding domain [Cordyceps militaris],ATY60696,0.965,0.441
+ref|XP_031939519.1|,uncharacterized protein BDV37DRAFT_295592 [Aspergillus pseudonomius],XP_031939519,0.974,0.441
+gb|MYH68111.1|,NAD(P)/FAD-dependent oxidoreductase [Dehalococcoidia bacterium],MYH68111,0.987,0.446
+gb|KAB2571468.1|,"Cyclohexanone 1,2-monooxygenase [Lasiodiplodia theobromae]",KAB2571468,0.956,0.491
+gb|MXZ89203.1|,NAD(P)/FAD-dependent oxidoreductase [Dehalococcoidia bacterium],MXZ89203,0.987,0.448
+gb|OOO06808.1|,cyclohexanone monooxygenase [Aspergillus oryzae],OOO06808,0.976,0.434
+gb|KAB8253387.1|,hypothetical protein BDV35DRAFT_5124 [Aspergillus flavus],KAB8253387,0.976,0.434
+gb|KAF2021451.1|,"cyclohexanone monooxygenase, variant 1 [Aaosphaeria arxii CBS 175.79]",KAF2021451,0.982,0.448
+gb|MQG29147.1|,NAD(P)/FAD-dependent oxidoreductase [SAR202 cluster bacterium],MQG29147,0.994,0.441
+ref|XP_026616477.1|,hypothetical protein CDV56_108675 [Aspergillus thermomutatus],XP_026616477,1.002,0.45
+gb|KAE8143898.1|,hypothetical protein BDV38DRAFT_289700 [Aspergillus pseudotamarii],KAE8143898,0.976,0.439
+gb|MQG12755.1|,NAD(P)/FAD-dependent oxidoreductase [SAR202 cluster bacterium],MQG12755,0.994,0.443
+gb|OPB36322.1|,cyclohexanone monooxygenase [Trichoderma guizhouense],OPB36322,0.972,0.467
+gb|RAQ51337.1|,dimethylaniline monooxygenase [Aspergillus flavus],RAQ51337,0.976,0.434
+gb|MQG61819.1|,NAD(P)/FAD-dependent oxidoreductase [SAR202 cluster bacterium],MQG61819,0.994,0.443
+ref|XP_006668010.1|,NAD(P)-binding domain [Cordyceps militaris CM01],XP_006668010,0.965,0.439
+gb|PGH30695.1|,hypothetical protein GX50_06559 [Emmonsia crescens],PGH30695,1.063,0.487
+gb|MQG71210.1|,NAD(P)/FAD-dependent oxidoreductase [SAR202 cluster bacterium],MQG71210,0.994,0.443
+gb|KAF3071394.1|,hypothetical protein CFAM422_006443 [Trichoderma lentiforme],KAF3071394,0.972,0.465
+gb|KAF2121245.1|,putative cyclohexanone monooxygenase [Lophiotrema nucula],KAF2121245,0.987,0.454
+ref|XP_025469919.1|,cyclohexanone monooxygenase [Aspergillus sclerotioniger CBS 115572],XP_025469919,0.985,0.461
+gb|KND93034.1|,"Cyclohexanone 1,2-monooxygenase [Tolypocladium ophioglossoides CBS 100239]",KND93034,0.987,0.446
+gb|KXT04709.1|,hypothetical protein AC578_2075 [Pseudocercospora eumusae],KXT04709,0.983,0.472
+ref|XP_024775806.1|,hypothetical protein M431DRAFT_481576 [Trichoderma harzianum CBS 226.95],XP_024775806,0.972,0.463
+gb|OAA37261.1|,cyclohexanone monooxygenase [Beauveria brongniartii RCEF 3172],OAA37261,0.97,0.441
+ref|WP_104176462.1|,NAD(P)/FAD-dependent oxidoreductase [Cryobacterium sp. Y50],WP_104176462,0.948,0.439
+gb|MXY35403.1|,NAD(P)/FAD-dependent oxidoreductase [Dehalococcoidia bacterium],MXY35403,0.987,0.452
+gb|KJJ29322.1|,"cyclohexanone 1,2-monooxygenase [Aspergillus flavus AF70]",KJJ29322,0.976,0.432
+gb|RVX71098.1|,hypothetical protein B0A52_03464 [Exophiala mesophila],RVX71098,0.996,0.467
+gb|MXX17988.1|,NAD(P)/FAD-dependent oxidoreductase [Dehalococcoidia bacterium],MXX17988,0.987,0.446
+gb|KAF2415676.1|,"cyclohexanone monooxygenase, variant 1 [Tothia fuscella]",KAF2415676,0.993,0.435
+gb|KAF2137113.1|,hypothetical protein K452DRAFT_236407 [Aplosporella prunicola CBS 121167],KAF2137113,0.983,0.459
+gb|PKK44308.1|,hypothetical protein CI102_10888 [Trichoderma harzianum],PKK44308,0.972,0.463
+gb|MYD29045.1|,NAD(P)/FAD-dependent oxidoreductase [Dehalococcoidia bacterium],MYD29045,0.987,0.446
+ref|WP_056401882.1|,NAD(P)/FAD-dependent oxidoreductase [Aeromicrobium sp. Root236],WP_056401882,0.946,0.435
+gb|KAF2432171.1|,cyclohexanone monooxygenase [Tothia fuscella],KAF2432171,0.952,0.443
+gb|MSW20597.1|,NAD(P)-binding protein [Actinobacteria bacterium],MSW20597,0.983,0.459
+ref|WP_104133890.1|,NAD(P)/FAD-dependent oxidoreductase [Cryobacterium sp. Y62],WP_104133890,0.948,0.437
+gb|MPY92193.1|,NAD(P)-binding protein [Acidimicrobiia bacterium],MPY92193,0.987,0.435
+ref|WP_079926582.1|,NAD(P)/FAD-dependent oxidoreductase [Mycobacterium sp. AT1],WP_079926582,0.939,0.435
+ref|WP_149371415.1|,NAD(P)-binding domain-containing protein [Mycolicibacterium sp. P9-64],WP_149371415,0.943,0.437
+gb|PYI05092.1|,"cyclohexanone monooxygenase, partial [Aspergillus sclerotiicarbonarius CBS 121057]",PYI05092,0.985,0.463
+gb|KAE8414383.1|,hypothetical protein BDV36DRAFT_286179 [Aspergillus pseudocaelatus],KAE8414383,0.976,0.434
+gb|RSL75045.1|,hypothetical protein CEP51_011227 [Fusarium floridanum],RSL75045,0.937,0.445
+ref|WP_007260850.1|,NAD(P)/FAD-dependent oxidoreductase [Natronolimnobius innermongolicus],WP_007260850,0.987,0.448
+ref|WP_142550787.1|,NAD(P)-binding domain-containing protein [Mycolicibacterium hodleri],WP_142550787,0.961,0.435
+ref|XP_025570635.1|,cyclohexanone monooxygenase [Aspergillus ibericus CBS 121593],XP_025570635,0.985,0.459
+gb|KJJ32229.1|,putative cyclohexanone monooxygenase [Aspergillus flavus AF70],KJJ32229,1.009,0.463
+ref|XP_022469048.1|,hypothetical protein CORC01_12829 [Colletotrichum orchidophilum],XP_022469048,1.033,0.456
+gb|KAB8248472.1|,hypothetical protein BDV35DRAFT_162216 [Aspergillus flavus],KAB8248472,1.009,0.461
+gb|RAQ40692.1|,cyclohexanone monooxygenase [Aspergillus flavus],RAQ40692,1.009,0.461
+gb|OOO07150.1|,flavin-containing monooxygenase FMO [Aspergillus oryzae],OOO07150,1.009,0.461
+gb|MTB07601.1|,NAD(P)-binding protein [Actinobacteria bacterium],MTB07601,0.983,0.458
+gb|KAE8329221.1|,hypothetical protein BDV39DRAFT_172053 [Aspergillus sergii],KAE8329221,0.985,0.456
+gb|KMK62040.1|,cyclohexanone monooxygenase [Aspergillus fumigatus Z5],KMK62040,0.974,0.439
+ref|WP_019875767.1|,NAD(P)/FAD-dependent oxidoreductase [Sporichthya polymorpha],WP_019875767,0.976,0.445
+ref|WP_089809973.1|,NAD(P)/FAD-dependent oxidoreductase [Halogeometricum rufum],WP_089809973,0.998,0.45
+gb|OXN04855.1|,hypothetical protein CDV58_06862 [Aspergillus fumigatus],OXN04855,0.974,0.439
+ref|WP_149448508.1|,NAD(P)-binding domain-containing protein [Mycolicibacterium sp. P9-22],WP_149448508,0.97,0.448
+gb|KEY77257.1|,cyclohexanone monooxygenase [Aspergillus fumigatus var. RP-2014],KEY77257,0.974,0.441
+ref|XP_031921908.1|,uncharacterized protein BDV27DRAFT_169142 [Aspergillus caelatus],XP_031921908,0.976,0.432
+gb|OJJ08291.1|,hypothetical protein ASPVEDRAFT_143691 [Aspergillus versicolor CBS 583.65],OJJ08291,0.969,0.441
+ref|XP_002378022.1|,"cyclohexanone monooxygenase, putative [Aspergillus flavus NRRL3357]",XP_002378022,1.009,0.459
+ref|XP_016239635.1|,hypothetical protein PV08_03714 [Exophiala spinifera],XP_016239635,0.996,0.456
+gb|KAB8204512.1|,hypothetical protein BDV34DRAFT_115685 [Aspergillus parasiticus],KAB8204512,0.983,0.45
+gb|MYD72986.1|,NAD(P)/FAD-dependent oxidoreductase [Chloroflexi bacterium],MYD72986,0.967,0.417
+ref|WP_152943960.1|,NAD(P)-binding domain-containing protein [Natronorubrum aibiense],WP_152943960,0.994,0.439
+ref|XP_001260435.1|,"cyclohexanone monooxygenase, putative [Aspergillus fischeri NRRL 181]",XP_001260435,0.974,0.441
+ref|XP_755274.1|,"cyclohexanone monooxygenase, putative [Aspergillus fumigatus Af293]",XP_755274,0.974,0.439
+gb|KIV84592.1|,hypothetical protein PV11_00364 [Exophiala sideris],KIV84592,0.972,0.469
+gb|MUV56065.1|,NAD(P)-binding protein [Halogeometricum sp. CBA1124],MUV56065,0.998,0.448
+ref|WP_142940487.1|,NAD(P)-binding domain-containing protein [Arthrobacter sp. TS-15],WP_142940487,0.98,0.458
+gb|KAB8272535.1|,hypothetical protein BDV30DRAFT_211839 [Aspergillus minisclerotigenes],KAB8272535,1.009,0.463
+gb|KAF3806794.1|,Cyclohexanone 1 2-monooxygenase [Colletotrichum gloeosporioides],KAF3806794,1.015,0.445
+dbj|GFF34441.1|,"cyclohexanone 1,2-monooxygenase [Aspergillus lentulus]",GFF34441,0.974,0.441
+gb|OPB44765.1|,hypothetical protein A0O28_0089030 [Trichoderma guizhouense],OPB44765,0.969,0.452
+ref|WP_136356533.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus sp. DSL-17],WP_136356533,0.994,0.459
+gb|KAF2657686.1|,"cyclohexanone monooxygenase, variant 1 [Lophiostoma macrostomum CBS 122681]",KAF2657686,0.985,0.437
+ref|XP_013261808.1|,hypothetical protein A1O9_04062 [Exophiala aquamarina CBS 119918],XP_013261808,0.991,0.441
+gb|KAA8650471.1|,hypothetical protein ATNIH1004_003157 [Aspergillus tanneri],KAA8650471,0.982,0.434
+ref|XP_009158444.1|,cyclohexanone monooxygenase [Exophiala dermatitidis NIH/UT8656],XP_009158444,0.994,0.445
+gb|KAB8219990.1|,hypothetical protein BDV33DRAFT_231263 [Aspergillus novoparasiticus],KAB8219990,0.983,0.452
+gb|RAQ61116.1|,cyclohexanone monooxygenase [Aspergillus flavus],RAQ61116,1.009,0.458
+gb|MYD66304.1|,NAD(P)/FAD-dependent oxidoreductase [Chloroflexi bacterium],MYD66304,0.985,0.445
+gb|KAF2096542.1|,"cyclohexanone monooxygenase, variant 1 [Rhizodiscina lignyota]",KAF2096542,0.982,0.445
+gb|PIG80545.1|,cyclohexanone monooxygenase [Aspergillus arachidicola],PIG80545,1.009,0.456
+dbj|GAQ06775.1|,"cyclohexanone 1,2-monooxygenase [Aspergillus lentulus]",GAQ06775,0.974,0.439
+gb|MQA00863.1|,NAD(P)-binding protein [Dehalococcoidia bacterium],MQA00863,0.978,0.459
+ref|WP_028792880.1|,NAD(P)/FAD-dependent oxidoreductase [Thalassobaculum salexigens],WP_028792880,0.985,0.465
+gb|KJK61411.1|,TrkA [Aspergillus parasiticus SU-1],KJK61411,0.983,0.45
+ref|WP_095249864.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus sp. 7884-1],WP_095249864,0.993,0.458
+gb|OTA94950.1|,hypothetical protein M434DRAFT_394167 [Hypoxylon sp. CO27-5],OTA94950,0.963,0.441
+gb|TQB70714.1|,hypothetical protein MPDQ_008125 [Monascus purpureus],TQB70714,0.985,0.426
+ref|WP_056298380.1|,NAD(P)/FAD-dependent oxidoreductase [Modestobacter sp. Leaf380],WP_056298380,0.926,0.454
+ref|WP_093152318.1|,NAD(P)/FAD-dependent oxidoreductase [Thalassobaculum litoreum],WP_093152318,0.985,0.465
+ref|WP_133368152.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus qingshengii],WP_133368152,0.993,0.456
+gb|KKP00699.1|,hypothetical protein THAR02_07186 [Trichoderma harzianum],KKP00699,0.954,0.443
+ref|WP_097150565.1|,NAD(P)/FAD-dependent oxidoreductase [Lysinibacillus acetophenoni],WP_097150565,0.98,0.456
+ref|WP_132283577.1|,NAD(P)/FAD-dependent oxidoreductase [Paracraurococcus sp. NE82],WP_132283577,0.982,0.459
+ref|WP_067901758.1|,NAD(P)/FAD-dependent oxidoreductase [Nocardia vaccinii],WP_067901758,0.952,0.443
+gb|MYA19696.1|,NAD(P)/FAD-dependent oxidoreductase [Chloroflexi bacterium],MYA19696,0.987,0.437
+gb|KAF3011114.1|,hypothetical protein E8E13_011380 [Curvularia kusanoi],KAF3011114,0.972,0.443
+ref|WP_068164196.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus phenolicus],WP_068164196,0.985,0.448
+gb|MYE45539.1|,NAD(P)/FAD-dependent oxidoreductase [Chloroflexi bacterium],MYE45539,0.987,0.434
+gb|KXH34573.1|,hypothetical protein CSIM01_11797 [Colletotrichum simmondsii],KXH34573,1.057,0.452
+ref|XP_016262166.1|,hypothetical protein PV06_05544 [Exophiala oligosperma],XP_016262166,0.98,0.421
+ref|WP_098571911.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus sp. AFS073361],WP_098571911,0.996,0.45
+ref|XP_025554454.1|,cyclohexanone monooxygenase [Aspergillus homomorphus CBS 101889],XP_025554454,0.985,0.452
+ref|WP_018065333.1|,NAD(P)/FAD-dependent oxidoreductase [Martelella mediterranea],WP_018065333,0.97,0.448
+ref|XP_024771124.1|,hypothetical protein M431DRAFT_19445 [Trichoderma harzianum CBS 226.95],XP_024771124,0.959,0.441
+gb|EXF78962.1|,hypothetical protein CFIO01_10029 [Colletotrichum fioriniae PJ7],EXF78962,1.033,0.441
+ref|WP_007257162.1|,NAD(P)/FAD-dependent oxidoreductase [Oceanicola granulosus],WP_007257162,0.97,0.437
+ref|XP_025389141.1|,cyclohexanone monooxygenase [Aspergillus eucalypticola CBS 122712],XP_025389141,0.985,0.434
+gb|TQM08958.1|,cyclohexanone monooxygenase [Pseudonocardia kunmingensis],TQM08958,0.985,0.439
+gb|KXH42764.1|,hypothetical protein CNYM01_03787 [Colletotrichum nymphaeae SA-01],KXH42764,1.057,0.452
+gb|KAE8316949.1|,hypothetical protein BDV41DRAFT_573449 [Aspergillus transmontanensis],KAE8316949,0.983,0.446
+gb|OTA57423.1|,FAD/NAD(P)-binding domain-containing protein [Hypoxylon sp. EC38],OTA57423,0.963,0.439
+gb|TKA61600.1|,hypothetical protein B0A55_11474 [Friedmanniomyces simplex],TKA61600,0.891,0.448
+gb|KAE8337515.1|,hypothetical protein BDV24DRAFT_98434 [Aspergillus arachidicola],KAE8337515,0.983,0.446
+gb|KAF3066610.1|,Baeyer-Villiger monooxygenase [Trichoderma lentiforme],KAF3066610,0.959,0.446
+ref|XP_001267858.1|,"cyclohexanone monooxygenase, putative [Aspergillus clavatus NRRL 1]",XP_001267858,0.974,0.435
+ref|WP_149810612.1|,NAD(P)-binding domain-containing protein [Roseomonas oryzae],WP_149810612,0.982,0.465
+gb|OJJ67303.1|,hypothetical protein ASPBRDRAFT_136090 [Aspergillus brasiliensis CBS 101740],OJJ67303,0.985,0.439
+gb|KAF2164474.1|,hypothetical protein M409DRAFT_25352 [Zasmidium cellare ATCC 36951],KAF2164474,0.972,0.434
+ref|WP_159765079.1|,NAD(P)-binding domain-containing protein [Halovenus sp. WSH3],WP_159765079,0.991,0.432
+gb|MQG70190.1|,NAD(P)/FAD-dependent oxidoreductase [SAR202 cluster bacterium],MQG70190,0.98,0.437
+ref|WP_046524907.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus campisalis],WP_046524907,0.983,0.458
+ref|XP_018033744.1|,"cyclohexanone monooxygenase, variant 1 [Paraphaeosphaeria sporulosa]",XP_018033744,0.978,0.428
+gb|OOF92510.1|,hypothetical protein ASPCADRAFT_55488 [Aspergillus carbonarius ITEM 5010],OOF92510,0.985,0.441
+ref|WP_113884010.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Bacillus],WP_113884010,0.989,0.454
+ref|WP_109335747.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus sp. S2-17],WP_109335747,0.969,0.439
+ref|XP_023093458.1|,unnamed protein product [Aspergillus oryzae RIB40],XP_023093458,0.928,0.421
+gb|EIT82755.1|,putative flavoprotein involved in K+ transport [Aspergillus oryzae 3.042],EIT82755,0.928,0.421
+gb|KAE8138191.1|,hypothetical protein BDV38DRAFT_244823 [Aspergillus pseudotamarii],KAE8138191,1.009,0.456
+gb|MBU21316.1|,cyclohexanone monooxygenase [Microbacterium sp.],MBU21316,0.732,0.415
+ref|WP_158734868.1|,NAD(P)-binding domain-containing protein [Alteribacillus sp. YIM 98480],WP_158734868,1.009,0.469
+ref|WP_062747709.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus clausii],WP_062747709,0.974,0.45
+gb|MSX22123.1|,NAD(P)-binding protein [Actinobacteria bacterium],MSX22123,0.987,0.437
+gb|MYE54678.1|,NAD(P)/FAD-dependent oxidoreductase [Chloroflexi bacterium],MYE54678,1.002,0.432
+gb|MSW20596.1|,NAD(P)-binding protein [Actinobacteria bacterium],MSW20596,0.987,0.437
+gb|MAU22597.1|,cyclohexanone monooxygenase [Martelella sp.],MAU22597,0.97,0.446
+ref|WP_012947985.1|,NAD(P)/FAD-dependent oxidoreductase [Geodermatophilus obscurus],WP_012947985,0.976,0.437
+ref|WP_149534273.1|,NAD(P)-binding domain-containing protein [Tardiphaga sp. P9-11],WP_149534273,0.976,0.456
+ref|WP_120637686.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [unclassified Roseomonas],WP_120637686,0.972,0.456
+gb|TAJ81452.1|,NAD(P)/FAD-dependent oxidoreductase [Reyranella sp.],TAJ81452,0.989,0.445
+ref|WP_127490066.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus mesonae],WP_127490066,0.994,0.456
+ref|WP_026567529.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus sp. UNC41MFS5],WP_026567529,0.985,0.443
+gb|RVX70628.1|,hypothetical protein B0A52_05280 [Exophiala mesophila],RVX70628,0.946,0.424
+ref|WP_128964912.1|,NAD(P)/FAD-dependent oxidoreductase [Bradyrhizobium guangdongense],WP_128964912,0.987,0.45
+gb|MBH77143.1|,cyclohexanone monooxygenase [Dehalococcoidia bacterium],MBH77143,0.998,0.443
+ref|WP_156230202.1|,NAD(P)-binding domain-containing protein [Corynebacterium sp. 2039],WP_156230202,0.996,0.443
+gb|OQE84754.1|,hypothetical protein PENNAL_c0026G05635 [Penicillium nalgiovense],OQE84754,0.946,0.439
+gb|TMK88405.1|,NAD(P)/FAD-dependent oxidoreductase [Actinobacteria bacterium],TMK88405,0.989,0.423
+ref|WP_144548244.1|,NAD(P)-binding protein [Bacillus sp. X1(2014)],WP_144548244,0.996,0.439
+ref|WP_114273026.1|,NAD(P)/FAD-dependent oxidoreductase [Sulfitobacter sp. DFL-14],WP_114273026,0.974,0.43
+gb|OQE94994.1|,hypothetical protein PENNAL_c0003G11806 [Penicillium nalgiovense],OQE94994,0.98,0.446
+ref|XP_025532569.1|,FAD/NAD(P)-binding domain-containing protein [Aspergillus japonicus CBS 114.51],XP_025532569,1.035,0.454
+ref|XP_025495489.1|,FAD/NAD(P)-binding domain-containing protein [Aspergillus uvarum CBS 121591],XP_025495489,1.007,0.45
+ref|WP_066152109.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus krulwichiae],WP_066152109,1.007,0.456
+ref|WP_166027227.1|,NAD(P)-binding domain-containing protein [Bacillus sp. C11],WP_166027227,0.987,0.441
+gb|PGH08532.1|,hypothetical protein GX51_01051 [Blastomyces parvus],PGH08532,1.068,0.469
+gb|KXH45247.1|,hypothetical protein CSAL01_06360 [Colletotrichum salicis],KXH45247,1.03,0.443
+ref|WP_136591278.1|,NAD(P)/FAD-dependent oxidoreductase [Salinigranum halophilum],WP_136591278,1.002,0.441
+ref|WP_026585273.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus sp. J33],WP_026585273,0.989,0.45
+gb|OYU91209.1|,cyclohexanone monooxygenase [Bradyrhizobiaceae bacterium PARB1],OYU91209,0.978,0.45
+gb|OQE14777.1|,hypothetical protein PENFLA_c035G06341 [Penicillium flavigenum],OQE14777,0.98,0.437
+ref|WP_136601518.1|,NAD(P)/FAD-dependent oxidoreductase [Salinigranum halophilum],WP_136601518,1.002,0.441
+ref|WP_076256074.1|,NAD(P)/FAD-dependent oxidoreductase [Paenibacillus sp. FSL R5-0490],WP_076256074,0.98,0.446
+ref|WP_159351096.1|,NAD(P)-binding domain-containing protein [Roseomonas deserti],WP_159351096,0.978,0.463
+ref|WP_035330559.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus firmus],WP_035330559,0.989,0.446
+ref|WP_098260456.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus sp. AFS006103],WP_098260456,1.002,0.441
+ref|WP_071158428.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus oceanisediminis],WP_071158428,0.989,0.45
+ref|WP_011828637.1|,NAD(P)/FAD-dependent oxidoreductase [Methylibium petroleiphilum],WP_011828637,0.969,0.437
+gb|PYI16856.1|,FAD/NAD(P)-binding domain-containing protein [Aspergillus violaceofuscus CBS 115571],PYI16856,1.035,0.454
+dbj|GCB28240.1|,"cyclohexanone 1,2-monooxygenase [Aspergillus awamori]",GCB28240,0.985,0.432
+ref|WP_095242512.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus sp. 7894-2],WP_095242512,0.989,0.448
+ref|WP_085991341.1|,NAD(P)/FAD-dependent oxidoreductase [Oceanobacillus senegalensis],WP_085991341,0.987,0.443
+ref|WP_094929701.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudonocardia sp. MH-G8],WP_094929701,0.983,0.456
+ref|XP_013264621.1|,hypothetical protein A1O9_00003 [Exophiala aquamarina CBS 119918],XP_013264621,0.97,0.428
+ref|WP_163141454.1|,NAD(P)-binding domain-containing protein [Bacillus sp. 22-7],WP_163141454,0.993,0.445
+ref|WP_027322381.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus sp. URHB0009],WP_027322381,0.985,0.439
+ref|WP_094927413.1|,NAD(P)-binding domain-containing protein [Pseudonocardia sp. MH-G8],WP_094927413,0.985,0.434
+gb|MQA12718.1|,NAD(P)-binding protein [Pseudonocardiaceae bacterium],MQA12718,0.976,0.43
+emb|CEL05040.1|,hypothetical protein ASPCAL06162 [Aspergillus calidoustus],CEL05040,0.965,0.434
+gb|MYD94959.1|,NAD(P)/FAD-dependent oxidoreductase [Chloroflexi bacterium],MYD94959,0.983,0.424
+ref|WP_133773370.1|,NAD(P)/FAD-dependent oxidoreductase [Enterovirga rhinocerotis],WP_133773370,0.978,0.45
+gb|MXZ46604.1|,NAD(P)/FAD-dependent oxidoreductase [Chloroflexi bacterium],MXZ46604,0.985,0.434
+ref|WP_141475447.1|,NAD(P)-binding domain-containing protein [Rhodococcus sp. WS4],WP_141475447,0.98,0.437
+ref|XP_018697573.1|,hypothetical protein AYL99_00178 [Fonsecaea erecta],XP_018697573,0.976,0.435
+ref|WP_056315907.1|,NAD(P)/FAD-dependent oxidoreductase [Methylibium sp. Root1272],WP_056315907,0.969,0.432
+ref|XP_020126999.1|,cyclohexanone monooxygenase [Diplodia corticola],XP_020126999,1.018,0.439
+ref|WP_138418622.1|,NAD(P)/FAD-dependent oxidoreductase [Aquibacillus sp. BH258],WP_138418622,0.989,0.448
+ref|WP_128639623.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus opacus],WP_128639623,0.993,0.443
+ref|WP_027519200.1|,NAD(P)-binding domain-containing protein [Bradyrhizobium sp. WSM1417],WP_027519200,0.987,0.448
+ref|WP_166398293.1|,NAD(P)-binding domain-containing protein [Rubrobacter sp. SCSIO 52915],WP_166398293,0.98,0.47
+ref|WP_166258906.1|,NAD(P)-binding domain-containing protein [Bacillus sp. MM2020_1],WP_166258906,1.002,0.439
+gb|KFA53792.1|,hypothetical protein S40293_01716 [Stachybotrys chartarum IBT 40293],KFA53792,0.965,0.432
+gb|OQE09783.1|,hypothetical protein PENVUL_c005G06135 [Penicillium vulpinum],OQE09783,0.983,0.443
+ref|WP_012944942.1|,NAD(P)/FAD-dependent oxidoreductase [Haloterrigena turkmenica],WP_012944942,1.002,0.434
+ref|WP_037049549.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudonocardia autotrophica],WP_037049549,0.976,0.435
+ref|WP_159869104.1|,NAD(P)-binding domain-containing protein [Bacillus sp. ZZV12-4809],WP_159869104,0.989,0.45
+gb|MBA04609.1|,cyclohexanone monooxygenase [Gammaproteobacteria bacterium],MBA04609,0.993,0.434
+gb|MXY22039.1|,NAD(P)/FAD-dependent oxidoreductase [Dehalococcoidia bacterium],MXY22039,1.002,0.43
+tpg|HAO55112.1|,cyclohexanone monooxygenase [Gammaproteobacteria bacterium],HAO55112,0.993,0.434
+ref|WP_066053950.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus korlensis],WP_066053950,1.002,0.452
+ref|WP_133217714.1|,NAD(P)/FAD-dependent oxidoreductase [Paracraurococcus ruber],WP_133217714,0.994,0.448
+ref|WP_038235346.1|,NAD(P)/FAD-dependent oxidoreductase [Xenorhabdus szentirmaii],WP_038235346,0.961,0.434
+ref|WP_048008862.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus firmus],WP_048008862,0.993,0.443
+ref|WP_104517772.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodopila globiformis],WP_104517772,0.982,0.419
+ref|WP_114343629.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus sp. NFR08],WP_114343629,0.987,0.445
+ref|WP_129448359.1|,NAD(P)/FAD-dependent oxidoreductase [Methylibium sp. Pch-M],WP_129448359,0.969,0.435
+ref|WP_164557006.1|,NAD(P)-binding protein [K189A clade bacterium],WP_164557006,0.978,0.461
+ref|WP_053436133.1|,NAD(P)/FAD-dependent oxidoreductase [Sporosarcina globispora],WP_053436133,0.989,0.448
+ref|XP_025565016.1|,cyclohexanone monooxygenase [Aspergillus vadensis CBS 113365],XP_025565016,0.985,0.434
+gb|NBQ75484.1|,NAD(P)/FAD-dependent oxidoreductase [Acetobacteraceae bacterium],NBQ75484,0.987,0.454
+ref|WP_036251124.1|,NAD(P)/FAD-dependent oxidoreductase [Methylibium sp. T29],WP_036251124,0.969,0.435
+gb|PSQ43868.1|,cyclohexanone monooxygenase [Halobacteriales archaeon QS_9_68_42],PSQ43868,1,0.445
+gb|PYI36929.1|,FAD/NAD(P)-binding domain-containing protein [Aspergillus indologenus CBS 114.80],PYI36929,1,0.441
+gb|PLN84933.1|,putative cyclohexanone monooxygenase [Aspergillus taichungensis],PLN84933,1.004,0.43
+ref|WP_129276043.1|,NAD(P)/FAD-dependent oxidoreductase [Bradyrhizobium betae],WP_129276043,0.987,0.446
+gb|TAL03103.1|,NAD(P)/FAD-dependent oxidoreductase [Porticoccaceae bacterium],TAL03103,0.976,0.459
+ref|WP_101649542.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus cucumis],WP_101649542,1.002,0.452
+ref|WP_066255183.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus drentensis],WP_066255183,1.002,0.437
+ref|WP_155789168.1|,NAD(P)-binding protein [K189A clade bacterium],WP_155789168,0.978,0.459
+dbj|GAA86513.1|,cyclohexanone monooxygenase [Aspergillus kawachii IFO 4308],GAA86513,0.985,0.435
+gb|MAR88390.1|,cyclohexanone monooxygenase [Rhodospirillaceae bacterium],MAR88390,0.98,0.463
+gb|KEY69234.1|,hypothetical protein S7711_01689 [Stachybotrys chartarum IBT 7711],KEY69234,0.965,0.432
+ref|WP_106946054.1|,NAD(P)/FAD-dependent oxidoreductase [Bradyrhizobium sp. MOS002],WP_106946054,0.987,0.446
+ref|WP_099094543.1|,NAD(P)/FAD-dependent oxidoreductase [Roseomonas rhizosphaerae],WP_099094543,0.993,0.461
+ref|WP_122925104.1|,NAD(P)/FAD-dependent oxidoreductase [Brevibacillus nitrificans],WP_122925104,0.991,0.435
+ref|XP_025516936.1|,cyclohexanone monooxygenase [Aspergillus piperis CBS 112811],XP_025516936,0.985,0.434
+ref|XP_025474522.1|,cyclohexanone monooxygenase [Aspergillus neoniger CBS 115656],XP_025474522,0.985,0.428
+ref|WP_121612497.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus foraminis],WP_121612497,0.982,0.437
+ref|WP_130291520.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudonocardia sediminis],WP_130291520,0.976,0.443
+ref|WP_166397575.1|,NAD(P)-binding domain-containing protein [Rubrobacter sp. SCSIO 52915],WP_166397575,0.97,0.434
+gb|MBF67724.1|,cyclohexanone monooxygenase [Gammaproteobacteria bacterium],MBF67724,0.985,0.435
+gb|OJJ52110.1|,hypothetical protein ASPSYDRAFT_95945 [Aspergillus sydowii CBS 593.65],OJJ52110,0.978,0.432
+ref|WP_131547143.1|,NAD(P)/FAD-dependent oxidoreductase [Roseococcus sp. SYP-B2431],WP_131547143,0.987,0.456
+ref|WP_144542857.1|,NAD(P)-binding domain-containing protein [Bacillus oceanisediminis],WP_144542857,0.985,0.45
+gb|OJZ85058.1|,hypothetical protein ASPFODRAFT_61744 [Aspergillus luchuensis CBS 106.47],OJZ85058,0.985,0.434
+ref|WP_133290175.1|,NAD(P)/FAD-dependent oxidoreductase [Dankookia rubra],WP_133290175,0.983,0.439
+ref|WP_126554717.1|,NAD(P)/FAD-dependent oxidoreductase [Dictyobacter kobayashii],WP_126554717,0.983,0.443
+ref|WP_029546891.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Rhodococcus],WP_029546891,0.972,0.43
+tpg|HEM20027.1|,NAD(P)/FAD-dependent oxidoreductase [Chloroflexi bacterium],HEM20027,0.989,0.426
+ref|XP_016236459.1|,hypothetical protein PV08_06294 [Exophiala spinifera],XP_016236459,0.97,0.424
+ref|XP_025535987.1|,cyclohexanone monooxygenase [Aspergillus costaricaensis CBS 115574],XP_025535987,0.985,0.432
+gb|MAJ99571.1|,cyclohexanone monooxygenase [Rhodospirillaceae bacterium],MAJ99571,0.98,0.461
+gb|RKE48830.1|,cation diffusion facilitator CzcD-associated flavoprotein CzcO [Tardiphaga sp. YR296],RKE48830,0.976,0.445
+gb|OJW29594.1|,cyclohexanone monooxygenase [Rhodospirillales bacterium 69-11],OJW29594,0.982,0.446
+dbj|GFF72683.1|,"cyclohexanone 1,2-monooxygenase [Aspergillus udagawae]",GFF72683,0.974,0.437
+ref|WP_066066945.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus soli],WP_066066945,1.002,0.441
+ref|WP_120289241.1|,NAD(P)/FAD-dependent oxidoreductase [Tardiphaga sp. YR296],WP_120289241,0.976,0.445
+ref|WP_165037721.1|,FAD-dependent oxidoreductase [Rhodococcus sp. 14C212],WP_165037721,0.972,0.43
+ref|WP_129691086.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus acidiceler],WP_129691086,0.996,0.448
+gb|PSP42696.1|,cyclohexanone monooxygenase [Halobacteriales archaeon QH_6_64_20],PSP42696,0.993,0.426
+dbj|GFF32619.1|,"cyclohexanone 1,2-monooxygenase [Aspergillus udagawae]",GFF32619,0.974,0.437
+ref|XP_016626929.1|,hypothetical protein Z520_11469 [Fonsecaea multimorphosa CBS 102226],XP_016626929,0.978,0.434
+dbj|GFG00472.1|,"cyclohexanone 1,2-monooxygenase [Aspergillus udagawae]",GFG00472,0.974,0.435
+ref|WP_027567909.1|,NAD(P)/FAD-dependent oxidoreductase [Bradyrhizobium sp. URHA0013],WP_027567909,0.987,0.445
+dbj|GFF29093.1|,"cyclohexanone 1,2-monooxygenase [Aspergillus udagawae]",GFF29093,0.974,0.435
+ref|WP_007678121.1|,NAD(P)/FAD-dependent oxidoreductase [alpha proteobacterium BAL199],WP_007678121,0.985,0.45
+gb|PKB80042.1|,cyclohexanone monooxygenase [SAR202 cluster bacterium Io17-Chloro-G9],PKB80042,0.98,0.445
+ref|WP_081924219.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudonocardia autotrophica],WP_081924219,0.996,0.437
+ref|WP_155922105.1|,NAD(P)-binding domain-containing protein [Bacillus sp. EB01],WP_155922105,0.985,0.439
+gb|RDK45474.1|,FAD/NAD(P)-binding domain-containing protein [Aspergillus phoenicis ATCC 13157],RDK45474,0.985,0.428
+ref|WP_061698584.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus sp. LB1],WP_061698584,0.98,0.43
+ref|WP_046522689.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus campisalis],WP_046522689,0.98,0.435
+gb|MBJ18339.1|,cyclohexanone monooxygenase [Deltaproteobacteria bacterium],MBJ18339,0.983,0.448
+ref|WP_078596432.1|,NAD(P)/FAD-dependent oxidoreductase [[Bacillus] clarkii],WP_078596432,0.994,0.445
+ref|WP_098118226.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus sp. AFS002410],WP_098118226,0.987,0.446
+ref|WP_159764990.1|,NAD(P)-binding domain-containing protein [Halovenus sp. WSH3],WP_159764990,0.987,0.441
+emb|SNS93410.1|,Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD [Tardiphaga sp. OK246],SNS93410,0.976,0.445
+gb|MAI46345.1|,cyclohexanone monooxygenase [Filomicrobium sp.],MAI46345,0.987,0.456
+ref|WP_089264613.1|,NAD(P)/FAD-dependent oxidoreductase [Tardiphaga sp. OK246],WP_089264613,0.976,0.445
+ref|XP_001395571.1|,"cyclohexanone 1,2-monooxygenase [Aspergillus niger CBS 513.88]",XP_001395571,0.985,0.428
+dbj|GBD23149.1|,Phenylacetone monooxygenase [bacterium HR29],GBD23149,0.98,0.426
+ref|WP_098172569.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus sp. AFS017336],WP_098172569,0.987,0.448
+gb|RAK81835.1|,cyclohexanone monooxygenase [Aspergillus fijiensis CBS 313.89],RAK81835,1.017,0.45
+ref|XP_025438186.1|,cyclohexanone monooxygenase [Aspergillus brunneoviolaceus CBS 621.78],XP_025438186,1.017,0.45
+ref|WP_093342489.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudonocardia ammonioxydans],WP_093342489,0.983,0.424
+dbj|GAO86875.1|,"cyclohexanone 1,2-monooxygenase [Aspergillus udagawae]",GAO86875,0.974,0.435
+gb|KAE9969727.1|,hypothetical protein EG328_006703 [Venturia inaequalis],KAE9969727,0.856,0.421
+ref|WP_161996150.1|,FAD-dependent oxidoreductase [Rhodococcus sp. YH1],WP_161996150,0.972,0.428
+ref|WP_159928495.1|,NAD(P)-binding domain-containing protein [Rhodococcus sp. WAY2],WP_159928495,0.972,0.432
+ref|WP_088035024.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus polygoni],WP_088035024,0.994,0.443
+ref|WP_160719443.1|,NAD(P)-binding domain-containing protein [Bacillus sp. USDA818B3_A],WP_160719443,1.002,0.446
+gb|OJJ05256.1|,hypothetical protein ASPVEDRAFT_137723 [Aspergillus versicolor CBS 583.65],OJJ05256,0.978,0.432
+ref|XP_024764484.1|,hypothetical protein M441DRAFT_130481 [Trichoderma asperellum CBS 433.97],XP_024764484,0.978,0.448
+ref|WP_103169055.1|,NAD(P)/FAD-dependent oxidoreductase [bacterium YEK0313],WP_103169055,0.978,0.448
+ref|WP_066073143.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus soli],WP_066073143,0.987,0.439
+ref|WP_055743883.1|,NAD(P)/FAD-dependent oxidoreductase [Brevibacillus choshinensis],WP_055743883,1.007,0.445
+ref|WP_088014034.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus acidiceler],WP_088014034,0.987,0.441
+gb|MBS01791.1|,cyclohexanone monooxygenase [Gammaproteobacteria bacterium],MBS01791,0.961,0.426
+gb|ERG91647.1|,putative flavoprotein involved in K+ transport [Haloquadratum walsbyi J07HQW1],ERG91647,0.993,0.419
+emb|CEJ10299.1|,Phenylacetone monooxygenase [bacterium YEK0313],CEJ10299,0.978,0.448
+ref|WP_158929460.1|,NAD(P)-binding domain-containing protein [Acidisphaera sp. S103],WP_158929460,0.991,0.439
+ref|WP_064066362.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus ruber],WP_064066362,0.972,0.428
+gb|KAF2402526.1|,FAD/NAD(P)-binding domain-containing protein [Trichodelitschia bisporula],KAF2402526,0.967,0.424
+gb|RTE84444.1|,hypothetical protein BHE90_001037 [Fusarium euwallaceae],RTE84444,0.97,0.435
+ref|XP_002561323.1|,Pc16g10130 [Penicillium rubens Wisconsin 54-1255],XP_002561323,0.98,0.434
+gb|OJY49066.1|,cyclohexanone monooxygenase [Pseudonocardia sp. 73-21],OJY49066,0.982,0.426
+ref|WP_119707780.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus sp. Y1],WP_119707780,1.002,0.45
+ref|WP_132430121.1|,NAD(P)/FAD-dependent oxidoreductase [Pseudonocardia endophytica],WP_132430121,0.976,0.426
+gb|PVX43362.1|,cation diffusion facilitator CzcD-associated flavoprotein CzcO [Tardiphaga sp. OV697],PVX43362,0.976,0.446
+gb|PSQ07725.1|,cyclohexanone monooxygenase [Halobacteriales archaeon QS_5_70_15],PSQ07725,0.989,0.432
+gb|RMZ83387.1|,"hypothetical protein DV737_g1708, partial [Chaetothyriales sp. CBS 132003]",RMZ83387,0.972,0.419
+ref|XP_025504443.1|,cyclohexanone monooxygenase [Aspergillus aculeatinus CBS 121060],XP_025504443,1.015,0.445
+gb|QHE73218.1|,Cyclohexanone monooxygenase [Rhodococcus sp. WAY2],QHE73218,0.983,0.439
+ref|WP_068137878.1|,NAD(P)/FAD-dependent oxidoreductase [Mycobacterium sp. E796],WP_068137878,0.978,0.434
+gb|ANW65198.1|,cyclohexanone monooxygenase [Mycobacterium sp. djl-10],ANW65198,0.969,0.411
+ref|WP_116664515.1|,NAD(P)/FAD-dependent oxidoreductase [Tardiphaga sp. OV697],WP_116664515,0.976,0.446
+gb|MBM30322.1|,cyclohexanone monooxygenase [Gammaproteobacteria bacterium],MBM30322,0.993,0.43
+gb|RMJ16841.1|,hypothetical protein CDV36_003475 [Fusarium kuroshium],RMJ16841,0.97,0.435
+gb|KID82798.1|,cyclohexanone monooxygenase [Metarhizium guizhouense ARSEF 977],KID82798,0.978,0.434
+ref|WP_045520517.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus niacini],WP_045520517,0.993,0.435
+gb|EYE99192.1|,FAD/NAD(P)-binding domain-containing protein [Aspergillus ruber CBS 135680],EYE99192,0.972,0.43
+gb|OJI80542.1|,hypothetical protein ASPTUDRAFT_69159 [Aspergillus tubingensis CBS 134.48],OJI80542,0.985,0.428
+gb|RHZ65261.1|,hypothetical protein CDV55_107519 [Aspergillus turcosus],RHZ65261,0.976,0.419
+gb|MBS05208.1|,cyclohexanone monooxygenase [Gammaproteobacteria bacterium],MBS05208,0.972,0.446
+gb|KAE8147226.1|,hypothetical protein BDV25DRAFT_160799 [Aspergillus avenaceus],KAE8147226,0.983,0.445
+ref|WP_161351556.1|,NAD(P)-binding domain-containing protein [Maritimibacter sp. DP07],WP_161351556,0.967,0.43
+gb|KAE8353515.1|,hypothetical protein BDV28DRAFT_133020 [Aspergillus coremiiformis],KAE8353515,0.983,0.428
+ref|WP_098996291.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus sp. AFS037270],WP_098996291,1.002,0.443
+ref|WP_090396676.1|,NAD(P)/FAD-dependent oxidoreductase [Natribacillus halophilus],WP_090396676,0.983,0.441
+gb|MAN70096.1|,cyclohexanone monooxygenase [Gammaproteobacteria bacterium],MAN70096,0.978,0.454
+ref|WP_098934148.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus sp. AFS031507],WP_098934148,0.994,0.428
+gb|RVU38272.1|,NAD(P)/FAD-dependent oxidoreductase [Hwanghaeella grinnelliae],RVU38272,0.982,0.45
+ref|WP_104977596.1|,NAD(P)/FAD-dependent oxidoreductase [Sorangium cellulosum],WP_104977596,0.983,0.443
+ref|WP_104520992.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodopila globiformis],WP_104520992,0.983,0.435
+gb|RSL88076.1|,hypothetical protein CEP51_001917 [Fusarium floridanum],RSL88076,0.97,0.434
+gb|MAZ98898.1|,cyclohexanone monooxygenase [Rhodospirillaceae bacterium],MAZ98898,0.994,0.452
+ref|WP_098531943.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus sp. AFS076308],WP_098531943,1.002,0.443
+ref|WP_093339949.1|,NAD(P)/FAD-dependent oxidoreductase [Salibacterium halotolerans],WP_093339949,0.993,0.432
+gb|MAG33755.1|,cyclohexanone monooxygenase [Deltaproteobacteria bacterium],MAG33755,0.983,0.439
+ref|WP_132090524.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus sp. OK085],WP_132090524,1,0.45
+dbj|GAQ44943.1|,cyclohexanone monooxygenase [Aspergillus niger],GAQ44943,0.985,0.423
+ref|WP_090745922.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus persicus],WP_090745922,0.98,0.45
+gb|KLL12419.1|,cyclohexanone monooxygenase [Frankia coriariae],KLL12419,0.976,0.434
+ref|WP_030530719.1|,NAD(P)/FAD-dependent oxidoreductase [Prauserella rugosa],WP_030530719,0.982,0.423
+gb|KID30168.1|,putative flavoprotein involved in K+ transport [Prauserella sp. Am3],KID30168,0.982,0.423
+gb|RLT41625.1|,NAD(P)/FAD-dependent oxidoreductase [Chloroflexi bacterium],RLT41625,0.976,0.428
+ref|WP_160666282.1|,NAD(P)-binding domain-containing protein [Pseudarthrobacter sp. ATCC 49987],WP_160666282,1,0.434
+ref|WP_083992651.1|,NAD(P)/FAD-dependent oxidoreductase [Afipia massiliensis],WP_083992651,0.972,0.45
+ref|WP_132624162.1|,NAD(P)/FAD-dependent oxidoreductase [Saccharopolyspora sp. 16K404],WP_132624162,0.993,0.434
+ref|WP_161973785.1|,NAD(P)-binding domain-containing protein [Hwanghaeella grinnelliae],WP_161973785,0.976,0.448
+gb|NCY23862.1|,NAD(P)/FAD-dependent oxidoreductase [Alphaproteobacteria bacterium],NCY23862,0.991,0.446
+gb|OUX43345.1|,cyclohexanone monooxygenase [Proteobacteria bacterium TMED261],OUX43345,0.987,0.443
+ref|WP_142054579.1|,NAD(P)-binding domain-containing protein [Pseudonocardia kunmingensis],WP_142054579,0.982,0.445
+gb|KKY27869.1|,putative cyclohexanone monooxygenase [Diplodia seriata],KKY27869,0.832,0.408
+ref|WP_093421615.1|,NAD(P)/FAD-dependent oxidoreductase [Saccharopolyspora flava],WP_093421615,0.978,0.446
+ref|WP_081395713.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus simplex],WP_081395713,0.978,0.423
+ref|WP_088087950.1|,NAD(P)/FAD-dependent oxidoreductase [Bacillus sp. OV166],WP_088087950,0.994,0.428
+emb|SIR78919.1|,Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD [Bacillus simplex],SIR78919,0.978,0.423
+ref|WP_110045347.1|,NAD(P)/FAD-dependent oxidoreductase [Paenibacillus cellulosilyticus],WP_110045347,1,0.417
+ref|WP_083130551.1|,NAD(P)/FAD-dependent oxidoreductase [Mycobacterium branderi],WP_083130551,0.97,0.437
+emb|SHK95222.1|,Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD [Bacillus rhizosphaerae],SHK95222,0.974,0.432
+gb|MBF69090.1|,cyclohexanone monooxygenase [Gammaproteobacteria bacterium],MBF69090,0.983,0.458
+ref|WP_073304314.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Bacillus],WP_073304314,0.974,0.432
+ref|XP_014540407.1|,"cyclohexanone monooxygenase, partial [Metarhizium brunneum ARSEF 3297]",XP_014540407,0.978,0.428
+emb|SMQ80201.1|,Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD [Bacillus sp. OV166],SMQ80201,0.994,0.428
+gb|KAE8158543.1|,hypothetical protein BDV40DRAFT_13023 [Aspergillus tamarii],KAE8158543,0.985,0.452
+ref|WP_062918369.1|,NAD(P)/FAD-dependent oxidoreductase [Paraburkholderia caribensis],WP_062918369,0.989,0.435
+ref|WP_149536413.1|,NAD(P)-binding domain-containing protein [Siccirubricoccus sp. 1-3],WP_149536413,0.982,0.456
+gb|TAJ41704.1|,NAD(P)/FAD-dependent oxidoreductase [Reyranella sp.],TAJ41704,0.978,0.432
+gb|ONH32057.1|,cyclohexanone monooxygenase [Frankia sp. BMG5.30],ONH32057,0.976,0.432
+ref|WP_067939529.1|,NAD(P)/FAD-dependent oxidoreductase [Mycobacterium sp. E2479],WP_067939529,0.974,0.434
+ref|WP_142058952.1|,NAD(P)-binding domain-containing protein [Pseudonocardia kunmingensis],WP_142058952,0.956,0.421
+ref|WP_055742062.1|,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Bacillus],WP_055742062,0.985,0.434
+ref|WP_133371319.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus qingshengii],WP_133371319,0.993,0.434
+ref|WP_006931398.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus sp. EsD8],WP_006931398,0.985,0.421
+ref|WP_131578673.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus sp. ABRD24],WP_131578673,0.989,0.435
+ref|WP_110335423.1|,NAD(P)/FAD-dependent oxidoreductase [Prauserella sp. YIM 121212],WP_110335423,0.983,0.423
+ref|WP_120662085.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus opacus],WP_120662085,0.978,0.437
+ref|WP_150441443.1|,NAD(P)-binding domain-containing protein [Bacillus endozanthoxylicus],WP_150441443,0.994,0.434
+ref|WP_127783165.1|,NAD(P)/FAD-dependent oxidoreductase [Rhodococcus sp. X156],WP_127783165,0.978,0.411
+emb|SDR23040.1|,cyclohexanone monooxygenase [Thermostaphylospora chromogena],SDR23040,0.972,0.424
